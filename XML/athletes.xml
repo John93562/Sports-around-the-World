@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<athletes>
+  <athlete>
+    <name>Michael Jordan</name>
+    <sport>Basketball</sport>
+    <quote>I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.</quote>
+    <significance>This quote highlights Jordan's resilience and the importance of perseverance and learning from failure in sports.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Pelé</name>
+    <sport>Football/Soccer</sport>
+    <quote>Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do.</quote>
+    <significance>Pelé emphasizes the dedication and passion required to succeed in sports and life.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Serena Williams</name>
+    <sport>Tennis</sport>
+    <quote>I really think a champion is defined not by their wins but by how they can recover when they fall.</quote>
+    <significance>Serena underscores the importance of resilience and the ability to overcome setbacks.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/0/06/Serena_Williams_US_Open_2013.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Muhammad Ali</name>
+    <sport>Boxing</sport>
+    <quote>I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'</quote>
+    <significance>Ali highlights the importance of hard work and perseverance to achieve greatness in sports.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/8/89/Muhammad_Ali_NYWTS.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Lionel Messi</name>
+    <sport>Football/Soccer</sport>
+    <quote>You have to fight to reach your dream. You have to sacrifice and work hard for it.</quote>
+    <significance>Messi stresses the value of hard work and determination in achieving one's goals.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Wayne Gretzky</name>
+    <sport>Ice Hockey</sport>
+    <quote>You miss 100% of the shots you don't take.</quote>
+    <significance>Gretzky’s quote is about the importance of taking opportunities and not being afraid to try.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/0/03/Wayne_Gretzky_2006-02-18_Turin_001.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Usain Bolt</name>
+    <sport>Athletics</sport>
+    <quote>I don't think limits.</quote>
+    <significance>Bolt’s philosophy on pushing beyond perceived boundaries and striving for greatness.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/e/ea/Usain_Bolt_by_Augustas_Didzgalvis.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Roger Federer</name>
+    <sport>Tennis</sport>
+    <quote>I fear no one, but respect everyone.</quote>
+    <significance>Federer speaks to the importance of respecting opponents while maintaining confidence in one's abilities.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/8/8e/Roger_Federer_2012_Indian_Wells.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Rafael Nadal</name>
+    <sport>Tennis</sport>
+    <quote>The glory is being happy. The glory is not winning here or winning there. The glory is enjoying practicing, enjoying every day, enjoying to work hard, trying to be a better player than before.</quote>
+    <significance>Nadal emphasizes the joy and fulfillment that comes from the daily grind and continuous improvement.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/2/28/Rafael_Nadal_at_the_2016_French_Open.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Kobe Bryant</name>
+    <sport>Basketball</sport>
+    <quote>The moment you give up, is the moment you let someone else win.</quote>
+    <significance>Bryant’s quote is about the importance of perseverance and never giving up.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/5/56/Kobe_Bryant_2014.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Simone Biles</name>
+    <sport>Gymnastics</sport>
+    <quote>I’m not the next Usain Bolt or Michael Phelps. I’m the first Simone Biles.</quote>
+    <significance>Biles highlights the importance of individuality and making one's own mark in sports.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/c/c3/Simone_Biles%2C_Jogos_Ol%C3%ADmpicos_Rio_2016_%28cropped%29.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Jackie Robinson</name>
+    <sport>Baseball</sport>
+    <quote>A life is not important except in the impact it has on other lives.</quote>
+    <significance>Robinson speaks to the broader impact athletes can have beyond the field, inspiring others through their actions.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/2/2d/Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Diego Maradona</name>
+    <sport>Football/Soccer</sport>
+    <quote>When people succeed, it is because of hard work. Luck has nothing to do with success.</quote>
+    <significance>Maradona emphasizes the importance of effort and dedication in achieving success.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Maradona-Mundial_86_con_la_copa.JPG/1024px-Maradona-Mundial_86_con_la_copa.JPG</image>
+  </athlete>
+  <athlete>
+    <name>Billie Jean King</name>
+    <sport>Tennis</sport>
+    <quote>Champions keep playing until they get it right.</quote>
+    <significance>King highlights the determination and persistence needed to achieve excellence in sports.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/6/6c/Billie_Jean_King_by_David_Shankbone.jpg</image>
+  </athlete>
+  <athlete>
+    <name>Tom Brady</name>
+    <sport>American Football</sport>
+    <quote>You wanna know which ring is my favorite? The next one.</quote>
+    <significance>Brady's relentless drive for success and continuous improvement in his sport.</significance>
+    <image>https://upload.wikimedia.org/wikipedia/commons/b/b2/Tom_Brady_2017.JPG</image>
+  </athlete>
+</athletes>

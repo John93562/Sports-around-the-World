@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stadiums>
+  <stadium>
+    <name>Wembley Stadium</name>
+    <location>London, England</location>
+    <capacity>90,000</capacity>
+    <sport>Football (Soccer)</sport>
+    <significance>Home to the England national football team and hosts major events like the FA Cup Final, UEFA Champions League Final, and concerts.</significance>
+    <famousEvent>1966 FIFA World Cup Final</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/6/68/Wembley_Stadium%2C_illuminated.jpg</image>
+    <openedDate>2007</openedDate>
+    <architect>Foster and Partners, Populous</architect>
+    <owner>The Football Association</owner>
+    <primaryTenants>England national football team</primaryTenants>
+    <recordAttendance>89,874</recordAttendance>
+    <eventsHosted>FA Cup Final, UEFA Champions League Final, Concerts</eventsHosted>
+    <website>https://www.wembleystadium.com/</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Wembley_Stadium</wikipediaLink>
+    <ticketPrice>£50-£150</ticketPrice>
+  </stadium>
+  <stadium>
+    <name>Camp Nou</name>
+    <location>Barcelona, Spain</location>
+    <capacity>99,354</capacity>
+    <sport>Football (Soccer)</sport>
+    <significance>Home of FC Barcelona, one of the most successful football clubs in the world.</significance>
+    <famousEvent>Numerous El Clásico matches between FC Barcelona and Real Madrid</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/4/40/Camp_Nou_Panoramic_Interior_View.jpg</image>
+    <openedDate>1957</openedDate>
+    <architect>Francesc Mitjans, Josep Soteras, and Lorenzo García-Barbón</architect>
+    <owner>FC Barcelona</owner>
+    <primaryTenants>FC Barcelona</primaryTenants>
+    <recordAttendance>120,000</recordAttendance>
+    <eventsHosted>El Clásico, UEFA Champions League matches</eventsHosted>
+    <website>https://www.fcbarcelona.com/en/club/facilities/camp-nou</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Camp_Nou</wikipediaLink>
+    <ticketPrice>€30-€150</ticketPrice>
+  </stadium>
+  <stadium>
+    <name>Old Trafford</name>
+    <location>Manchester, England</location>
+    <capacity>74,140</capacity>
+    <sport>Football (Soccer)</sport>
+    <significance>Known as "The Theatre of Dreams," it is the home of Manchester United.</significance>
+    <famousEvent>Hosting Premier League matches and European competitions</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/4/43/Old_Trafford_inside_20060726_1.jpg</image>
+    <openedDate>1910</openedDate>
+    <architect>Archibald Leitch</architect>
+    <owner>Manchester United</owner>
+    <primaryTenants>Manchester United</primaryTenants>
+    <recordAttendance>76,962</recordAttendance>
+    <eventsHosted>Premier League matches, UEFA Champions League matches</eventsHosted>
+    <website>https://www.manutd.com/en/Visit-Old-Trafford</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Old_Trafford</wikipediaLink>
+    <ticketPrice>£30-£100</ticketPrice>
+  </stadium>
+  <stadium>
+    <name>Maracanã Stadium</name>
+    <location>Rio de Janeiro, Brazil</location>
+    <capacity>78,838</capacity>
+    <sport>Football (Soccer)</sport>
+    <significance>One of the largest and most iconic football stadiums in the world.</significance>
+    <famousEvent>1950 and 2014 FIFA World Cup Finals</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/a/a4/Maracana_2022.jpg</image>
+    <openedDate>1950</openedDate>
+    <architect>Waldir Ramos, Raphael Galvão, and Miguel Feldman</architect>
+    <owner>Rio de Janeiro State Government</owner>
+    <primaryTenants>Brazil national football team, Flamengo, Fluminense</primaryTenants>
+    <recordAttendance>199,854</recordAttendance>
+    <eventsHosted>FIFA World Cup Finals, Olympic Games</eventsHosted>
+    <website>https://www.maracana.com/</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium</wikipediaLink>
+    <ticketPrice>R$40-R$200</ticketPrice>
+  </stadium>
+  <stadium>
+    <name>Yankee Stadium</name>
+    <location>New York City, USA</location>
+    <capacity>54,251</capacity>
+    <sport>Baseball</sport>
+    <significance>Home of the New York Yankees, one of the most successful teams in Major League Baseball.</significance>
+    <famousEvent>Numerous World Series games</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/1/19/Yankee_Stadium_Interior.jpg</image>
+    <openedDate>2009</openedDate>
+    <architect>Populous</architect>
+    <owner>New York Yankees</owner>
+    <primaryTenants>New York Yankees</primaryTenants>
+    <recordAttendance>50,096</recordAttendance>
+    <eventsHosted>World Series games, MLB All-Star Game</eventsHosted>
+    <website>https://www.mlb.com/yankees/ballpark</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Yankee_Stadium</wikipediaLink>
+    <ticketPrice>$20-$300</ticketPrice>
+  </stadium>
+  <stadium>
+    <name>Madison Square Garden</name>
+    <location>New York City, USA</location>
+    <capacity>20,789</capacity>
+    <sport>Basketball, Ice Hockey, Boxing</sport>
+    <significance>Known as "The World's Most Famous Arena," it hosts New York Knicks (NBA) and New York Rangers (NHL) games.</significance>
+    <famousEvent>Legendary boxing matches, concerts, and various sports events</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MSG_%284051531795%29.jpg/1920px-MSG_%284051531795%29.jpg</image>
+    <openedDate>1968</openedDate>
+    <architect>Charles Luckman Associates</architect>
+    <owner>Madison Square Garden Sports</owner>
+    <primaryTenants>New York Knicks, New York Rangers</primaryTenants>
+    <recordAttendance>20,789</recordAttendance>
+    <eventsHosted>NBA games, NHL games, concerts, boxing matches</eventsHosted>
+    <website>https://www.msg.com/madison-square-garden</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Madison_Square_Garden</wikipediaLink>
+    <ticketPrice>$50-$500</ticketPrice>
+  </stadium>
+  <stadium>
+    <name>Estadio Azteca</name>
+    <location>Mexico City, Mexico</location>
+    <capacity>87,523</capacity>
+    <sport>Football (Soccer)</sport>
+    <significance>Hosted two FIFA World Cup Finals (1970 and 1986).</significance>
+    <famousEvent>The "Game of the Century" - 1970 World Cup semi-final between Italy and West Germany</famousEvent>
+    <image>https://upload.wikimedia.org/wikipedia/commons/6/65/Estadio_azteca.jpg</image>
+    <openedDate>1966</openedDate>
+    <architect>Pedro Ramírez Vázquez and Rafael Mijares Alcérreca</architect>
+    <owner>Televisa</owner>
+    <primaryTenants>Mexico national football team, Club América</primaryTenants>
+    <recordAttendance>119,853</recordAttendance>
+    <eventsHosted>FIFA World Cup Finals, Olympic Games</eventsHosted>
+    <website>https://www.estadioazteca.com.mx/</website>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Estadio_Azteca</wikipediaLink>
+    <ticketPrice>MX$100-MX$800</ticketPrice>
+  </stadium>
+</stadiums>

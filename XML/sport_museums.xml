@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museums>
+  <museum>
+    <name>National Baseball Hall of Fame and Museum</name>
+    <location>Cooperstown, USA</location>
+    <sport>Baseball</sport>
+    <significance>This museum honors the greatest players in baseball history and preserves the sport's history through exhibits, artifacts, and memorabilia.</significance>
+    <highlights>Inductee plaques, Babe Ruth exhibit, and World Series displays.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/d/da/National_Baseball_Hall_of_Fame_and_Museum.jpg</image>
+    <establishedDate>1936</establishedDate>
+    <founder>Stephen Carlton Clark</founder>
+    <exhibitsCount>40,000</exhibitsCount>
+    <annualVisitors>300,000</annualVisitors>
+    <openingHours>9:00 AM - 5:00 PM</openingHours>
+    <admissionFee>Adults: $25, Children: $15</admissionFee>
+    <website>https://baseballhall.org/</website>
+    <specialEvents>Annual Hall of Fame Induction Ceremony</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum</wikipediaLink>
+  </museum>
+  <museum>
+    <name>International Olympic Museum</name>
+    <location>Lausanne, Switzerland</location>
+    <sport>Multi-sport (Olympics)</sport>
+    <significance>Located in the Olympic capital, this museum showcases the history of the Olympic Games, featuring exhibits on athletes, the cultural impact of the Games, and the evolution of sports.</significance>
+    <highlights>Olympic torches, medals, and interactive exhibits.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Losanna%2C_museo_olimpico%2C_ext..JPG/1920px-Losanna%2C_museo_olimpico%2C_ext..JPG</image>
+    <establishedDate>1993</establishedDate>
+    <founder>International Olympic Committee</founder>
+    <exhibitsCount>10,000</exhibitsCount>
+    <annualVisitors>250,000</annualVisitors>
+    <openingHours>10:00 AM - 6:00 PM</openingHours>
+    <admissionFee>Adults: 18 CHF, Children: 10 CHF</admissionFee>
+    <website>https://www.olympic.org/museum</website>
+    <specialEvents>Temporary Exhibitions on Various Sports</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Olympic_Museum</wikipediaLink>
+  </museum>
+  <museum>
+    <name>FIFA World Football Museum</name>
+    <location>Zurich, Switzerland</location>
+    <sport>Football (Soccer)</sport>
+    <significance>Dedicated to the history of football, this museum celebrates the sport's rich history, the FIFA World Cup, and the impact of football around the world.</significance>
+    <highlights>World Cup trophies, memorabilia from famous players, and interactive exhibits.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/f/f3/FIFA_World_Football_Museum_-_panoramio.jpg</image>
+    <establishedDate>2016</establishedDate>
+    <founder>FIFA</founder>
+    <exhibitsCount>1,000</exhibitsCount>
+    <annualVisitors>100,000</annualVisitors>
+    <openingHours>10:00 AM - 6:00 PM</openingHours>
+    <admissionFee>Adults: 24 CHF, Children: 14 CHF</admissionFee>
+    <website>https://www.fifamuseum.com/</website>
+    <specialEvents>World Cup Exhibitions</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/FIFA_World_Football_Museum</wikipediaLink>
+  </museum>
+  <museum>
+    <name>Basketball Hall of Fame</name>
+    <location>Springfield, USA</location>
+    <sport>Basketball</sport>
+    <significance>This museum honors the greatest players, coaches, and contributors to the game of basketball.</significance>
+    <highlights>Inductee memorabilia, interactive basketball exhibits, and historical displays.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/1/1d/Naismith_Memorial_Basketball_Hall_of_Fame.jpg</image>
+    <establishedDate>1959</establishedDate>
+    <founder>Lee Williams</founder>
+    <exhibitsCount>300</exhibitsCount>
+    <annualVisitors>200,000</annualVisitors>
+    <openingHours>10:00 AM - 5:00 PM</openingHours>
+    <admissionFee>Adults: $28, Children: $19</admissionFee>
+    <website>https://www.hoophall.com/</website>
+    <specialEvents>Annual Enshrinement Ceremony</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame</wikipediaLink>
+  </museum>
+  <museum>
+    <name>World Rugby Museum</name>
+    <location>Twickenham, England</location>
+    <sport>Rugby</sport>
+    <significance>Located at the home of English rugby, this museum explores the history of rugby, showcasing its global impact and the sport's greatest moments.</significance>
+    <highlights>Rugby artifacts, historical jerseys, and interactive exhibits.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/6/63/Sport_of_Empire_and_the_World_Gallery.jpg</image>
+    <establishedDate>1996</establishedDate>
+    <founder>Rugby Football Union</founder>
+    <exhibitsCount>500</exhibitsCount>
+    <annualVisitors>70,000</annualVisitors>
+    <openingHours>10:00 AM - 5:00 PM</openingHours>
+    <admissionFee>Adults: £12, Children: £8</admissionFee>
+    <website>https://www.worldrugbymuseum.com/</website>
+    <specialEvents>Annual Rugby Heritage Day, Temporary Exhibitions</specialEvents>
+    <accessibility>Wheelchair accessible, audio guides available</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/World_Rugby_Museum</wikipediaLink>
+  </museum>
+  <museum>
+    <name>Museo Nacional del Deporte</name>
+    <location>Mexico City, Mexico</location>
+    <sport>Multi-sport</sport>
+    <significance>This museum highlights the achievements of Mexican athletes and the country's sports history across various disciplines.</significance>
+    <highlights>Olympic memorabilia, famous athletes' gear, and national sports history.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Palacio_de_los_Deportes.JPG/1920px-Palacio_de_los_Deportes.JPG</image>
+    <establishedDate>1986</establishedDate>
+    <founder>Mexican Sports Confederation</founder>
+    <exhibitsCount>1,200</exhibitsCount>
+    <annualVisitors>80,000</annualVisitors>
+    <openingHours>9:00 AM - 6:00 PM</openingHours>
+    <admissionFee>Adults: $10, Children: $5</admissionFee>
+    <website>https://www.deporte.gob.mx/</website>
+    <specialEvents>Sports History Conferences, Temporary Exhibitions</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Museo_Nacional_del_Deporte</wikipediaLink>
+  </museum>
+  <museum>
+    <name>Hockey Hall of Fame</name>
+    <location>Toronto, Canada</location>
+    <sport>Ice Hockey</sport>
+    <significance>This museum honors the greatest players, coaches, and contributors to the sport of ice hockey.</significance>
+    <highlights>Stanley Cup, interactive games, and exhibits on famous hockey moments.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hockey_Hall_of_Fame%2C_Toronto.jpg/1920px-Hockey_Hall_of_Fame%2C_Toronto.jpg</image>
+    <establishedDate>1943</establishedDate>
+    <founder>James T. Sutherland</founder>
+    <exhibitsCount>15,000</exhibitsCount>
+    <annualVisitors>250,000</annualVisitors>
+    <openingHours>10:00 AM - 5:00 PM</openingHours>
+    <admissionFee>Adults: $20, Children: $14</admissionFee>
+    <website>https://www.hhof.com/</website>
+    <specialEvents>Annual Induction Ceremony, Stanley Cup Viewing</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Hockey_Hall_of_Fame</wikipediaLink>
+  </museum>
+  <museum>
+    <name>Museo del Fútbol</name>
+    <location>Montevideo, Uruguay</location>
+    <sport>Football (Soccer)</sport>
+    <significance>Located in the Estadio Centenario, this museum commemorates Uruguay's rich football history, including its World Cup victories.</significance>
+    <highlights>Historical artifacts, World Cup memorabilia, and exhibits on Uruguayan football legends.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Museu_do_Futebol%2C_Est%C3%A1dio_Centen%C3%A1rio_-_Montevid%C3%A9u_-_panoramio_%281%29.jpg/1920px-Museu_do_Futebol%2C_Est%C3%A1dio_Centen%C3%A1rio_-_Montevid%C3%A9u_-_panoramio_%281%29.jpg</image>
+    <establishedDate>1975</establishedDate>
+    <founder>Uruguayan Football Association</founder>
+    <exhibitsCount>2,000</exhibitsCount>
+    <annualVisitors>50,000</annualVisitors>
+    <openingHours>10:00 AM - 5:00 PM</openingHours>
+    <admissionFee>Adults: $10, Children: $5</admissionFee>
+    <website>https://museodelfutbol.uy/</website>
+    <specialEvents>World Cup Anniversaries, Football History Exhibitions</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Museo_del_F%C3%BAtbol</wikipediaLink>
+  </museum>
+  <museum>
+    <name>Australian Sports Museum</name>
+    <location>Melbourne, Australia</location>
+    <sport>Multi-sport</sport>
+    <significance>Located at the Melbourne Cricket Ground, this museum showcases Australia's rich sports history across various disciplines.</significance>
+    <highlights>Cricket memorabilia, interactive exhibits, and displays on Australian sports icons.</highlights>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/National_Sports_Museum.JPG/1920px-National_Sports_Museum.JPG</image>
+    <establishedDate>2008</establishedDate>
+    <founder>Melbourne Cricket Club</founder>
+    <exhibitsCount>3,500</exhibitsCount>
+    <annualVisitors>100,000</annualVisitors>
+    <openingHours>10:00 AM - 5:00 PM</openingHours>
+    <admissionFee>Adults: $20, Children: $10</admissionFee>
+    <website>https://www.australiansportsmuseum.org.au/</website>
+    <specialEvents>Temporary Exhibitions, Sports History Conferences</specialEvents>
+    <accessibility>Wheelchair accessible</accessibility>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Australian_Sports_Museum</wikipediaLink>
+  </museum>
+</museums>

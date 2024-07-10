@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country>
+    <name>Afghanistan</name>
+    <code>AF</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Afghanistan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/af/admin1/af.svg</map>
+    <nationalSport>
+      <name>Buzkashi</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Albania</name>
+    <code>AL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/al/admin1/al.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Algeria</name>
+    <code>DZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/dz/admin1/dz.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Handball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Argentina</name>
+    <code>AR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ar/admin1/ar.svg</map>
+    <nationalSport>
+      <name>Pato</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Australia</name>
+    <code>AU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/au/admin1/au.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Australian Rules Football, Rugby, Soccer</mostPlayedSports>
+  </country>
+  <country>
+    <name>Austria</name>
+    <code>AT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/at/admin1/at.svg</map>
+    <nationalSport>
+      <name>Alpine Skiing</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Skiing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Bangladesh</name>
+    <code>BD</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bd/admin1/bd.svg</map>
+    <nationalSport>
+      <name>Kabaddi</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Kabaddi</mostPlayedSports>
+  </country>
+  <country>
+    <name>Belgium</name>
+    <code>BE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/be/admin1/be.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cycling, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Bhutan</name>
+    <code>BT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bt/admin1/bt.svg</map>
+    <nationalSport>
+      <name>Archery</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Archery, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Brazil</name>
+    <code>BR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/br/admin1/br.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Canada</name>
+    <code>CA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_(Pantone).svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ca/admin1/ca.svg</map>
+    <nationalSport>
+      <name>Ice Hockey (Winter), Lacrosse (Summer)</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Ice Hockey, Basketball, Soccer</mostPlayedSports>
+  </country>
+  <country>
+    <name>China</name>
+    <code>CN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_China.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cn/admin1/cn.svg</map>
+    <nationalSport>
+      <name>Table Tennis</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Basketball, Table Tennis, Badminton</mostPlayedSports>
+  </country>
+  <country>
+    <name>Colombia</name>
+    <code>CO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/co/admin1/co.svg</map>
+    <nationalSport>
+      <name>Tejo</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cycling, Baseball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Croatia</name>
+    <code>HR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/hr/admin1/hr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Czech Republic</name>
+    <code>CZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cz/admin1/cz.svg</map>
+    <nationalSport>
+      <name>Ice Hockey</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Ice Hockey, Football (Soccer), Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Denmark</name>
+    <code>DK</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/dk/admin1/dk.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Handball, Cycling</mostPlayedSports>
+  </country>
+  <country>
+    <name>Egypt</name>
+    <code>EG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/eg/admin1/eg.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Squash, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>England</name>
+    <code>GB-ENG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gb-eng/admin1/gb-eng.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>France</name>
+    <code>FR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/fr/admin1/fr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Germany</name>
+    <code>DE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/de/admin1/de.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Ghana</name>
+    <code>GH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gh/admin1/gh.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Boxing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Greece</name>
+    <code>GR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gr/admin1/gr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>India</name>
+    <code>IN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/in/admin1/in.svg</map>
+    <nationalSport>
+      <name>Field Hockey</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Badminton</mostPlayedSports>
+  </country>
+  <country>
+    <name>Indonesia</name>
+    <code>ID</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/id/admin1/id.svg</map>
+    <nationalSport>
+      <name>Badminton</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Badminton, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Iran</name>
+    <code>IR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ir/admin1/ir.svg</map>
+    <nationalSport>
+      <name>Wrestling</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Ireland</name>
+    <code>IE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ie/admin1/ie.svg</map>
+    <nationalSport>
+      <name>Gaelic Games</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Gaelic Football</mostPlayedSports>
+  </country>
+  <country>
+    <name>Israel</name>
+    <code>IL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/il/admin1/il.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Judo</mostPlayedSports>
+  </country>
+  <country>
+    <name>Italy</name>
+    <code>IT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/it/admin1/it.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cycling, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Jamaica</name>
+    <code>JM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/jm/admin1/jm.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Japan</name>
+    <code>JP</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/jp/admin1/jp.svg</map>
+    <nationalSport>
+      <name>Sumo Wrestling</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Kenya</name>
+    <code>KE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ke/admin1/ke.svg</map>
+    <nationalSport>
+      <name>Athletics</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Athletics, Football (Soccer), Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Mexico</name>
+    <code>MX</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mx/admin1/mx.svg</map>
+    <nationalSport>
+      <name>Charrería</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Baseball, Boxing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Morocco</name>
+    <code>MA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ma/admin1/ma.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Netherlands</name>
+    <code>NL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/nl/admin1/nl.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Field Hockey, Cycling</mostPlayedSports>
+  </country>
+  <country>
+    <name>New Zealand</name>
+    <code>NZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/nz/admin1/nz.svg</map>
+    <nationalSport>
+      <name>Rugby Union</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Rugby, Cricket, Netball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Nigeria</name>
+    <code>NG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ng/admin1/ng.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Norway</name>
+    <code>NO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/no/admin1/no.svg</map>
+    <nationalSport>
+      <name>Cross-country Skiing</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cross-country Skiing, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Pakistan</name>
+    <code>PK</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pk/admin1/pk.svg</map>
+    <nationalSport>
+      <name>Field Hockey</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Squash</mostPlayedSports>
+  </country>
+  <country>
+    <name>Peru</name>
+    <code>PE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pe/admin1/pe.svg</map>
+    <nationalSport>
+      <name>Paleta Frontón</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Taekwondo</mostPlayedSports>
+  </country>
+  <country>
+    <name>Philippines</name>
+    <code>PH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ph/admin1/ph.svg</map>
+    <nationalSport>
+      <name>Arnis</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Basketball, Boxing, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Poland</name>
+    <code>PL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pl/admin1/pl.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Portugal</name>
+    <code>PT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pt/admin1/pt.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Futsal, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Qatar</name>
+    <code>QA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/qa/admin1/qa.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Handball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Romania</name>
+    <code>RO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ro/admin1/ro.svg</map>
+    <nationalSport>
+      <name>Oina</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Gymnastics, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Russia</name>
+    <code>RU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ru/admin1/ru.svg</map>
+    <nationalSport>
+      <name>Bandy</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Saudi Arabia</name>
+    <code>SA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sa/admin1/sa.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Camel Racing, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Scotland</name>
+    <code>GB-SCT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gb-sct/admin1/gb-sct.svg</map>
+    <nationalSport>
+      <name>Golf</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Golf</mostPlayedSports>
+  </country>
+  <country>
+    <name>Singapore</name>
+    <code>SG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sg/admin1/sg.svg</map>
+    <nationalSport>
+      <name>Table Tennis</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Badminton, Table Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>South Africa</name>
+    <code>ZA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/za/admin1/za.svg</map>
+    <nationalSport>
+      <name>Rugby Union</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Cricket</mostPlayedSports>
+  </country>
+  <country>
+    <name>South Korea</name>
+    <code>KR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kr/admin1/kr.svg</map>
+    <nationalSport>
+      <name>Taekwondo</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Baseball, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Spain</name>
+    <code>ES</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/es/admin1/es.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Sri Lanka</name>
+    <code>LK</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lk/admin1/lk.svg</map>
+    <nationalSport>
+      <name>Volleyball</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Sweden</name>
+    <code>SE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/se/admin1/se.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Switzerland</name>
+    <code>CH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ch/admin1/ch.svg</map>
+    <nationalSport>
+      <name>Skiing</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Skiing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Tanzania</name>
+    <code>TZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tz/admin1/tz.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Thailand</name>
+    <code>TH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/th/admin1/th.svg</map>
+    <nationalSport>
+      <name>Muay Thai</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Badminton</mostPlayedSports>
+  </country>
+  <country>
+    <name>Turkey</name>
+    <code>TR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tr/admin1/tr.svg</map>
+    <nationalSport>
+      <name>Oil Wrestling</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Uganda</name>
+    <code>UG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ug/admin1/ug.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Ukraine</name>
+    <code>UA</flag>
+    <map>https://simplemaps.com/static/svg/country/ua/admin1/ua.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Boxing, Wrestling</mostPlayedSports>
+  </country>
+  <country>
+    <name>United Arab Emirates</name>
+    <code>AE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ae/admin1/ae.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Camel Racing</mostPlayedSports>
+  </country>
+  <country>
+    <name>United States</name>
+    <code>US</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/us/admin1/us.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>American Football, Basketball, Baseball</mostPlayedSports>
+  </country>
+  <country>
+    <name>United Kingdom</name>
+    <code>GB</code>
+    <flag>https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gb/admin1/gb.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Uruguay</name>
+    <code>UY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/uy/admin1/uy.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Uzbekistan</name>
+    <code>UZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/uz/admin1/uz.svg</map>
+    <nationalSport>
+      <name>Kuresh</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Boxing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Venezuela</name>
+    <code>VE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ve/admin1/ve.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Vietnam</name>
+    <code>VN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/vn/admin1/vn.svg</map>
+    <nationalSport>
+      <name>Vietnamese Martial Arts</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Badminton</mostPlayedSports>
+  </country>
+  <country>
+    <name>Zambia</name>
+    <code>ZM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/zm/admin1/zm.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Zimbabwe</name>
+    <code>ZW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/zw/admin1/zw.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Angola</name>
+    <code>AO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ao/admin1/ao.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Armenia</name>
+    <code>AM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/am/admin1/am.svg</map>
+    <nationalSport>
+      <name>Chess</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Weightlifting</mostPlayedSports>
+  </country>
+  <country>
+    <name>Azerbaijan</name>
+    <code>AZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/az/admin1/az.svg</map>
+    <nationalSport>
+      <name>Chovqan</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Judo</mostPlayedSports>
+  </country>
+  <country>
+    <name>Bahrain</name>
+    <code>BH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bh/admin1/bh.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Cricket</mostPlayedSports>
+  </country>
+  <country>
+    <name>Barbados</name>
+    <code>BB</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bb/admin1/bb.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Belarus</name>
+    <code>BY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/by/admin1/by.svg</map>
+    <nationalSport>
+      <name>Ice Hockey</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Gymnastics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Bolivia</name>
+    <code>BO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bo/admin1/bo.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Botswana</name>
+    <code>BW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bw/admin1/bw.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Bulgaria</name>
+    <code>BG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bg/admin1/bg.svg</map>
+    <nationalSport>
+      <name>Wrestling</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Cambodia</name>
+    <code>KH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kh/admin1/kh.svg</map>
+    <nationalSport>
+      <name>Pradal Serey</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Cameroon</name>
+    <code>CM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cm/admin1/cm.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Chile</name>
+    <code>CL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cl/admin1/cl.svg</map>
+    <nationalSport>
+      <name>Rodeo</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Tennis, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Costa Rica</name>
+    <code>CR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_(state).svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cr/admin1/cr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Surfing, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Cuba</name>
+    <code>CU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cu/admin1/cu.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Boxing, Football (Soccer)</mostPlayedSports>
+  </country>
+  <country>
+    <name>Cyprus</name>
+    <code>CY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cy/admin1/cy.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Democratic Republic of the Congo</name>
+    <code>CD</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cd/admin1/cd.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Dominican Republic</name>
+    <code>DO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_the_Dominican_Republic.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/do/admin1/do.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Ecuador</name>
+    <code>EC</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ec/admin1/ec.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Tennis, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>El Salvador</name>
+    <code>SV</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sv/admin1/sv.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Baseball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Estonia</name>
+    <code>EE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ee/admin1/ee.svg</map>
+    <nationalSport>
+      <name>Basketball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Basketball, Football (Soccer), Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Ethiopia</name>
+    <code>ET</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/et/admin1/et.svg</map>
+    <nationalSport>
+      <name>Running</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Running, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Fiji</name>
+    <code>FJ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/fj/admin1/fj.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Rugby, Football (Soccer), Netball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Finland</name>
+    <code>FI</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/fi/admin1/fi.svg</map>
+    <nationalSport>
+      <name>Pesäpallo</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Georgia</name>
+    <code>GE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ge/admin1/ge.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Guatemala</name>
+    <code>GT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gt/admin1/gt.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Baseball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Honduras</name>
+    <code>HN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/hn/admin1/hn.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Baseball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Hungary</name>
+    <code>HU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/hu/admin1/hu.svg</map>
+    <nationalSport>
+      <name>Water Polo</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Water Polo, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Iceland</name>
+    <code>IS</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/is/admin1/is.svg</map>
+    <nationalSport>
+      <name>Handball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Handball, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Iraq</name>
+    <code>IQ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/iq/admin1/iq.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Weightlifting</mostPlayedSports>
+  </country>
+  <country>
+    <name>Kazakhstan</name>
+    <code>KZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kz/admin1/kz.svg</map>
+    <nationalSport>
+      <name>Kokpar</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Wrestling</mostPlayedSports>
+  </country>
+  <country>
+    <name>Kuwait</name>
+    <code>KW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kw/admin1/kw.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Kyrgyzstan</name>
+    <code>KG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kg/admin1/kg.svg</map>
+    <nationalSport>
+      <name>Buzkashi</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Laos</name>
+    <code>LA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/la/admin1/la.svg</map>
+    <nationalSport>
+      <name>Muay Lao</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Sepak Takraw</mostPlayedSports>
+  </country>
+  <country>
+    <name>Latvia</name>
+    <code>LV</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lv/admin1/lv.svg</map>
+    <nationalSport>
+      <name>Ice Hockey</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Lebanon</name>
+    <code>LB</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lb/admin1/lb.svg</map>
+    <nationalSport>
+      <name>Basketball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Lithuania</name>
+    <code>LT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lt/admin1/lt.svg</map>
+    <nationalSport>
+      <name>Basketball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Basketball, Football (Soccer), Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Luxembourg</name>
+    <code>LU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lu/admin1/lu.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Cycling</mostPlayedSports>
+  </country>
+  <country>
+    <name>Madagascar</name>
+    <code>MG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mg/admin1/mg.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Malaysia</name>
+    <code>MY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/my/admin1/my.svg</map>
+    <nationalSport>
+      <name>Sepak Takraw</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Badminton, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Mali</name>
+    <code>ML</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ml/admin1/ml.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Malta</name>
+    <code>MT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mt/admin1/mt.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Water Polo, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Mauritius</name>
+    <code>MU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mu/admin1/mu.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Boxing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Moldova</name>
+    <code>MD</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/md/admin1/md.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Mongolia</name>
+    <code>MN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mn/admin1/mn.svg</map>
+    <nationalSport>
+      <name>Mongolian Wrestling</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Archery</mostPlayedSports>
+  </country>
+  <country>
+    <name>Myanmar</name>
+    <code>MM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mm/admin1/mm.svg</map>
+    <nationalSport>
+      <name>Chinlone</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Nepal</name>
+    <code>NP</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/np/admin1/np.svg</map>
+    <nationalSport>
+      <name>Volleyball</name>
+      <official>Yes</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>North Korea</name>
+    <code>KP</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kp/admin1/kp.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Oman</name>
+    <code>OM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/om/admin1/om.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Panama</name>
+    <code>PA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pa/admin1/pa.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Baseball, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Paraguay</name>
+    <code>PY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/py/admin1/py.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Serbia</name>
+    <code>RS</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/rs/admin1/rs.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Slovakia</name>
+    <code>SK</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sk/admin1/sk.svg</map>
+    <nationalSport>
+      <name>Ice Hockey</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Ice Hockey, Tennis</mostPlayedSports>
+  </country>
+  <country>
+    <name>Slovenia</name>
+    <code>SI</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/si/admin1/si.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Syria</name>
+    <code>SY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sy/admin1/sy.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Tajikistan</name>
+    <code>TJ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tj/admin1/tj.svg</map>
+    <nationalSport>
+      <name>Buzkashi</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Turkmenistan</name>
+    <code>TM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tm/admin1/tm.svg</map>
+    <nationalSport>
+      <name>Horse Racing</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Uruguay</name>
+    <code>UY</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/uy/admin1/uy.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Uzbekistan</name>
+    <code>UZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/uz/admin1/uz.svg</map>
+    <nationalSport>
+      <name>Kuresh</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Wrestling, Boxing</mostPlayedSports>
+  </country>
+  <country>
+    <name>Venezuela</name>
+    <code>VE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ve/admin1/ve.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Vietnam</name>
+    <code>VN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/vn/admin1/vn.svg</map>
+    <nationalSport>
+      <name>Vietnamese Martial Arts</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Badminton</mostPlayedSports>
+  </country>
+  <country>
+    <name>Zimbabwe</name>
+    <code>ZW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/zw/admin1/zw.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Andorra</name>
+    <code>AD</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ad/admin1/ad.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Rugby</mostPlayedSports>
+  </country>
+  <country>
+    <name>Antigua and Barbuda</name>
+    <code>AG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ag/admin1/ag.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Bahamas</name>
+    <code>BS</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bs/admin1/bs.svg</map>
+    <nationalSport>
+      <name>Sailing</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Belize</name>
+    <code>BZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bz/admin1/bz.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Benin</name>
+    <code>BJ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bj/admin1/bj.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Brunei</name>
+    <code>BN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bn/admin1/bn.svg</map>
+    <nationalSport>
+      <name>Silat</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Badminton</mostPlayedSports>
+  </country>
+  <country>
+    <name>Burkina Faso</name>
+    <code>BF</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bf/admin1/bf.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Burundi</name>
+    <code>BI</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/bi/admin1/bi.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Cape Verde</name>
+    <code>CV</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cv/admin1/cv.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Central African Republic</name>
+    <code>CF</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/cf/admin1/cf.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Chad</name>
+    <code>TD</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/td/admin1/td.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Comoros</name>
+    <code>KM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/km/admin1/km.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Djibouti</name>
+    <code>DJ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/dj/admin1/dj.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Dominica</name>
+    <code>DM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/dm/admin1/dm.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Equatorial Guinea</name>
+    <code>GQ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gq/admin1/gq.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Eritrea</name>
+    <code>ER</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/er/admin1/er.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cycling, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Eswatini</name>
+    <code>SZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sz/admin1/sz.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Gabon</name>
+    <code>GA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ga/admin1/ga.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Gambia</name>
+    <code>GM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gm/admin1/gm.svg</map>
+    <nationalSport>
+      <name>Wrestling</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Wrestling, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Grenada</name>
+    <code>GD</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gd/admin1/gd.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Guinea</name>
+    <code>GN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gn/admin1/gn.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Guinea-Bissau</name>
+    <code>GW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/gw/admin1/gw.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Haiti</name>
+    <code>HT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ht/admin1/ht.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Kiribati</name>
+    <code>KI</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ki/admin1/ki.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Weightlifting</mostPlayedSports>
+  </country>
+  <country>
+    <name>Lesotho</name>
+    <code>LS</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ls/admin1/ls.svg</map>
+    <nationalSport>
+      <name>Athletics</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Liberia</name>
+    <code>LR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lr/admin1/lr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Liechtenstein</name>
+    <code>LI</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/li/admin1/li.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Tennis, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Maldives</name>
+    <code>MV</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mv/admin1/mv.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Marshall Islands</name>
+    <code>MH</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mh/admin1/mh.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Mauritania</name>
+    <code>MR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mr/admin1/mr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Micronesia</name>
+    <code>FM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_the_Federated_States_of_Micronesia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/fm/admin1/fm.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Monaco</name>
+    <code>MC</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mc/admin1/mc.svg</map>
+    <nationalSport>
+      <name>Motorsport</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Tennis, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Montenegro</name>
+    <code>ME</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/me/admin1/me.svg</map>
+    <nationalSport>
+      <name>Water Polo</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Handball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Mozambique</name>
+    <code>MZ</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/mz/admin1/mz.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Namibia</name>
+    <code>NA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/na/admin1/na.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Nauru</name>
+    <code>NR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/nr/admin1/nr.svg</map>
+    <nationalSport>
+      <name>Australian Rules Football</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Australian Rules Football, Weightlifting, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Nicaragua</name>
+    <code>NI</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ni/admin1/ni.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Niger</name>
+    <code>NE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ne/admin1/ne.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Palau</name>
+    <code>PW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pw/admin1/pw.svg</map>
+    <nationalSport>
+      <name>Baseball</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Baseball, Football (Soccer), Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Papua New Guinea</name>
+    <code>PG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/pg/admin1/pg.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Rugby, Football (Soccer), Cricket</mostPlayedSports>
+  </country>
+  <country>
+    <name>Rwanda</name>
+    <code>RW</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/rw/admin1/rw.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Samoa</name>
+    <code>WS</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ws/admin1/ws.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Rugby, Football (Soccer), Cricket</mostPlayedSports>
+  </country>
+  <country>
+    <name>San Marino</name>
+    <code>SM</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sm/admin1/sm.svg</map>
+    <nationalSport>
+      <name>Shooting</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Sao Tome and Principe</name>
+    <code>ST</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/st/admin1/st.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Seychelles</name>
+    <code>SC</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sc/admin1/sc.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Sierra Leone</name>
+    <code>SL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sl/admin1/sl.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Solomon Islands</name>
+    <code>SB</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sb/admin1/sb.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Rugby, Cricket</mostPlayedSports>
+  </country>
+  <country>
+    <name>Somalia</name>
+    <code>SO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/so/admin1/so.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>South Sudan</name>
+    <code>SS</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ss/admin1/ss.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>St. Kitts and Nevis</name>
+    <code>KN</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Saint_Kitts_and_Nevis.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/kn/admin1/kn.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>St. Lucia</name>
+    <code>LC</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/lc/admin1/lc.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>St. Vincent and the Grenadines</name>
+    <code>VC</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/vc/admin1/vc.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Suriname</name>
+    <code>SR</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/sr/admin1/sr.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Timor-Leste</name>
+    <code>TL</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tl/admin1/tl.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Togo</name>
+    <code>TG</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tg/admin1/tg.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Athletics, Basketball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Tonga</name>
+    <code>TO</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/to/admin1/to.svg</map>
+    <nationalSport>
+      <name>Rugby</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Rugby, Football (Soccer), Cricket</mostPlayedSports>
+  </country>
+  <country>
+    <name>Trinidad and Tobago</name>
+    <code>TT</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tt/admin1/tt.svg</map>
+    <nationalSport>
+      <name>Cricket</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Cricket, Football (Soccer), Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Tuvalu</name>
+    <code>TV</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/tv/admin1/tv.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Volleyball, Athletics</mostPlayedSports>
+  </country>
+  <country>
+    <name>Vanuatu</name>
+    <code>VU</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/vu/admin1/vu.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Cricket, Volleyball</mostPlayedSports>
+  </country>
+  <country>
+    <name>Vatican City</name>
+    <code>VA</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/va/admin1/va.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer)</mostPlayedSports>
+  </country>
+  <country>
+    <name>Yemen</name>
+    <code>YE</code>
+    <flag>https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg</flag>
+    <map>https://simplemaps.com/static/svg/country/ye/admin1/ye.svg</map>
+    <nationalSport>
+      <name>Football (Soccer)</name>
+      <official>No</official>
+    </nationalSport>
+    <mostPlayedSports>Football (Soccer), Basketball, Volleyball</mostPlayedSports>
+  </country>
+</countries>

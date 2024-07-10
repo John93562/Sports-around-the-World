@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports>
+  <sport>
+    <name>Archery</name>
+    <officialCountries>Bhutan</officialCountries>
+    <famousCountries>Bhutan</famousCountries>
+    <totalPlayers>500,000</totalPlayers>
+    <totalFans>1,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Archery</wikipediaLink>
+    <famousAthletes>Kim Woo-jin, Brady Ellison</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>Archery has been practiced for hunting and combat for thousands of years.</historicalContext>
+    <culturalImpact>Archery has significant historical and cultural importance in many regions, particularly in Asia.</culturalImpact>
+    <economicImpact>Moderate, with significant revenue from major tournaments and equipment sales.</economicImpact>
+    <equipment>Bow, arrows, quiver, arm guard, finger tab</equipment>
+    <rulesOverview>Competitors aim to shoot arrows as close to the center of a target as possible from a set distance.</rulesOverview>
+    <genderParticipation>Both men and women compete, with strong participation in both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/5U53PllOWvU?si=tPcUwVQ1TwEugwXs</rulesVideo>
+    <matchVideo>https://youtu.be/rzj4FFi7wt8?si=Cb7gjlgxbE_fRAvZ</matchVideo>
+  </sport>
+  <sport>
+    <name>Athletics</name>
+    <officialCountries>Kenya, Lesotho</officialCountries>
+    <famousCountries>Kenya, Lesotho, Ghana, Ethiopia</famousCountries>
+    <totalPlayers>1,500,000</totalPlayers>
+    <totalFans>5,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Athletics_(sport)</wikipediaLink>
+    <famousAthletes>Usain Bolt, Mo Farah</famousAthletes>
+    <inceptionDate>Ancient Greece</inceptionDate>
+    <historicalContext>Athletics has been a part of human culture since ancient times, originating from the Greek Olympic Games.</historicalContext>
+    <culturalImpact>Athletics has a strong cultural impact, often seen as a symbol of human physical achievement and national pride.</culturalImpact>
+    <economicImpact>High, especially during major events like the Olympics.</economicImpact>
+    <equipment>Track, running shoes, starting blocks, hurdles</equipment>
+    <rulesOverview>Competitors participate in various track and field events, aiming for the fastest time or longest distance.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women globally.</genderParticipation>
+    <rulesVideo>https://youtu.be/a6Wy-FxGIdA?si=L4JjtAFw2ykaIkY9</rulesVideo>
+    <matchVideo>https://youtu.be/IQcTd4xZ44o?si=4v3E0XwlATf0Fcqs</matchVideo>
+  </sport>
+  <sport>
+    <name>Australian Rules Football</name>
+    <officialCountries>Nauru</officialCountries>
+    <famousCountries>Australia, Nauru</famousCountries>
+    <totalPlayers>1,500,000</totalPlayers>
+    <totalFans>8,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Australian_rules_football</wikipediaLink>
+    <famousAthletes>Gary Ablett Sr., Chris Judd</famousAthletes>
+    <inceptionDate>1859</inceptionDate>
+    <historicalContext>Developed in Melbourne, Australia, as a way to keep cricketers fit during the off-season.</historicalContext>
+    <culturalImpact>Integral part of Australian culture, with significant influence on local communities and national identity.</culturalImpact>
+    <economicImpact>High, with major revenue from the AFL, merchandise, and media rights.</economicImpact>
+    <equipment>Football, goal posts</equipment>
+    <rulesOverview>Two teams of 18 players compete to score points by kicking the ball between the opposing goal posts.</rulesOverview>
+    <genderParticipation>Increasing participation from women, with the establishment of the AFL Women's league.</genderParticipation>
+    <rulesVideo>https://youtu.be/u_SqfNNfhmM?si=saRT1-FG7XFx3jGY</rulesVideo>
+    <matchVideo>https://youtu.be/2w3boaCQAmg?si=n3m8fyQ-ke2xEgmV</matchVideo>
+  </sport>
+  <sport>
+    <name>Badminton</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>China, Indonesia, India, Thailand</famousCountries>
+    <totalPlayers>220,000,000</totalPlayers>
+    <totalFans>740,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Badminton</wikipediaLink>
+    <famousAthletes>Lin Dan, Saina Nehwal</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Originated in British India and became popular in England before spreading globally.</historicalContext>
+    <culturalImpact>Highly popular in Asia, where it is a major part of sporting culture and national pride.</culturalImpact>
+    <economicImpact>Moderate, with significant revenue from major tournaments and sponsorships in Asia.</economicImpact>
+    <equipment>Racket, shuttlecock, net</equipment>
+    <rulesOverview>Players hit a shuttlecock across a net, aiming to land it in the opponent's court.</rulesOverview>
+    <genderParticipation>Equally popular among men and women, with mixed doubles events in major tournaments.</genderParticipation>
+    <rulesVideo>https://youtu.be/UyLIi-TbcFc?si=vrpY2sRyZtGc381R</rulesVideo>
+    <matchVideo>https://www.youtube.com/live/xNLb1jYLIps?si=iSgeGJNN00vE-H6A</matchVideo>
+  </sport>
+  <sport>
+    <name>Baseball</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>United States, Japan, South Korea, Cuba</famousCountries>
+    <totalPlayers>65,000,000</totalPlayers>
+    <totalFans>500,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Baseball</wikipediaLink>
+    <famousAthletes>Babe Ruth, Ichiro Suzuki</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Evolved from older bat-and-ball games in England and became popular in North America.</historicalContext>
+    <culturalImpact>Considered America's pastime, with a deep cultural and historical significance in the United States and Japan.</culturalImpact>
+    <economicImpact>High, with substantial revenue from MLB, NPB, merchandise, and media rights.</economicImpact>
+    <equipment>Bat, ball, glove, bases</equipment>
+    <rulesOverview>Two teams take turns batting and fielding, aiming to score runs by hitting the ball and running bases.</rulesOverview>
+    <genderParticipation>Primarily male-dominated, though there are women's leagues and increasing female participation at youth levels.</genderParticipation>
+    <rulesVideo>https://youtu.be/E160D9rEY0M?si=sBbStXfyzk3g9hMH</rulesVideo>
+    <matchVideo>https://youtu.be/qkRUcYHJ1JI?si=-n62xehLOpnkqvXb</matchVideo>
+  </sport>
+  <sport>
+    <name>Basketball</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>United States, Canada, China, Philippines</famousCountries>
+    <totalPlayers>450,000,000</totalPlayers>
+    <totalFans>2,200,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Basketball</wikipediaLink>
+    <famousAthletes>Michael Jordan, LeBron James</famousAthletes>
+    <inceptionDate>1891</inceptionDate>
+    <historicalContext>Invented by James Naismith in Springfield, Massachusetts, as a way to keep students active indoors.</historicalContext>
+    <culturalImpact>Globally popular, especially in the United States, where it is a major part of sports culture and media.</culturalImpact>
+    <economicImpact>Very high, with substantial revenue from the NBA, merchandise, and global media rights.</economicImpact>
+    <equipment>Basketball, hoop, court</equipment>
+    <rulesOverview>Two teams of five players aim to score points by shooting the ball through the opponent's hoop.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional leagues for both genders worldwide.</genderParticipation>
+    <rulesVideo>https://youtu.be/wYjp2zoqQrs?si=Z6PGPjnS-o9ikoLu</rulesVideo>
+    <matchVideo>https://youtu.be/LPDnemFoqVk?si=9QLwghYqXyHrHbEA</matchVideo>
+  </sport>
+  <sport>
+    <name>Boxing</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>United States, Mexico, United Kingdom, Philippines</famousCountries>
+    <totalPlayers>25,000,000</totalPlayers>
+    <totalFans>500,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Boxing</wikipediaLink>
+    <famousAthletes>Muhammad Ali, Manny Pacquiao</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>Boxing has ancient roots, with evidence of the sport in ancient civilizations such as Greece and Rome.</historicalContext>
+    <culturalImpact>Significant cultural impact, especially in countries like the United States and the Philippines.</culturalImpact>
+    <economicImpact>High, with major revenue from professional fights, pay-per-view events, and endorsements.</economicImpact>
+    <equipment>Boxing gloves, mouthguard, hand wraps</equipment>
+    <rulesOverview>Two fighters compete in a ring, aiming to win by knockout or points scored from landing punches.</rulesOverview>
+    <genderParticipation>Historically male-dominated, but women's boxing has gained significant recognition and participation.</genderParticipation>
+    <rulesVideo>https://youtu.be/arhG9WrghHM?si=yg-pUSg6cuztXRbZ</rulesVideo>
+    <matchVideo>https://youtu.be/p6MYhU97MSY?si=tASsR1H6CzFzxSIa</matchVideo>
+  </sport>
+  <sport>
+    <name>Camel Racing</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Saudi Arabia, United Arab Emirates</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>5,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Camel_racing</wikipediaLink>
+    <famousAthletes>Unknown</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>Traditional sport in the Middle East, with roots in Bedouin culture.</historicalContext>
+    <culturalImpact>Deeply embedded in the cultural traditions of the Arabian Peninsula.</culturalImpact>
+    <economicImpact>Moderate, with significant investments in racing events and camel breeding.</economicImpact>
+    <equipment>Camel, saddle, racing track</equipment>
+    <rulesOverview>Camels race on a track, often with jockeys or robotic jockeys controlling them.</rulesOverview>
+    <genderParticipation>Primarily male-dominated, but women are increasingly participating in training and organizing events.</genderParticipation>
+    <rulesVideo>https://youtu.be/DbWvWxGfDSc?si=sG-f3W7fYD7_UyTn</rulesVideo>
+    <matchVideo>https://youtu.be/6ll4-OiLn4E?si=7nM4MAMnBrdWisGv</matchVideo>
+  </sport>
+  <sport>
+    <name>Cricket</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>India, Australia, England, Pakistan</famousCountries>
+    <totalPlayers>30,000,000</totalPlayers>
+    <totalFans>2,500,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Cricket</wikipediaLink>
+    <famousAthletes>Sachin Tendulkar, Don Bradman</famousAthletes>
+    <inceptionDate>16th Century</inceptionDate>
+    <historicalContext>Originated in England and spread globally through the British Empire.</historicalContext>
+    <culturalImpact>Integral to the cultural identity of many Commonwealth countries, especially in South Asia.</culturalImpact>
+    <economicImpact>High, with substantial revenue from international matches, leagues like the IPL, and media rights.</economicImpact>
+    <equipment>Bat, ball, stumps, protective gear</equipment>
+    <rulesOverview>Two teams take turns batting and fielding, aiming to score runs and dismiss the opposing players.</rulesOverview>
+    <genderParticipation>Both men and women participate at all levels, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/AqtpNkMvj5Y?si=M-p5yQpRFDmrNuoJ</rulesVideo>
+    <matchVideo>https://youtu.be/WQdqgrWvy6g?si=MHc5trDNqy_xmb-V</matchVideo>
+  </sport>
+  <sport>
+    <name>Cross-country Skiing</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Norway, Sweden, Finland</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Cross-country_skiing</wikipediaLink>
+    <famousAthletes>Marit Bjørgen, Bjørn Dæhlie</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>One of the oldest forms of skiing, originally used for transportation in snowy regions.</historicalContext>
+    <culturalImpact>Highly popular in Nordic countries, where it is a major part of winter sports culture.</culturalImpact>
+    <economicImpact>Moderate, with significant revenue from equipment sales and major competitions.</economicImpact>
+    <equipment>Skis, poles, boots</equipment>
+    <rulesOverview>Skiers race over long distances on snow-covered terrain, using a variety of techniques.</rulesOverview>
+    <genderParticipation>Equal participation from men and women, with events in the Winter Olympics for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/MXxl7Ee6xl0?si=n5jvREJ2IE1G6Hn5</rulesVideo>
+    <matchVideo>https://youtu.be/JlbszPXZXoI?si=KXyamMzYCsH5xKOy</matchVideo>
+  </sport>
+  <sport>
+    <name>Cycling</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>France, Italy, Belgium, Netherlands</famousCountries>
+    <totalPlayers>50,000,000</totalPlayers>
+    <totalFans>1,000,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Cycling</wikipediaLink>
+    <famousAthletes>Eddy Merckx, Lance Armstrong</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Became popular in the late 19th century with the development of the modern bicycle.</historicalContext>
+    <culturalImpact>Major cultural significance in Europe, with events like the Tour de France being major national events.</culturalImpact>
+    <economicImpact>High, with substantial revenue from professional tours, equipment sales, and sponsorships.</economicImpact>
+    <equipment>Bicycle, helmet, cycling gear</equipment>
+    <rulesOverview>Cyclists compete in various formats, including road races, track events, and time trials.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional and amateur events for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/PmMHEEOrzWU?si=5_Z0nYiKjwj6ebDh</rulesVideo>
+    <matchVideo>https://youtu.be/Ua80hzoNkcM?si=_qpxUM_AXR10-SC6</matchVideo>
+  </sport>
+  <sport>
+    <name>Field Hockey</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>India, Netherlands, Germany, Australia</famousCountries>
+    <totalPlayers>2,000,000</totalPlayers>
+    <totalFans>2,000,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Field_hockey</wikipediaLink>
+    <famousAthletes>Dhyan Chand, Jamie Dwyer</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Developed in England and became popular in Commonwealth countries.</historicalContext>
+    <culturalImpact>Significant cultural impact in countries like India and Pakistan, where it is a major sport.</culturalImpact>
+    <economicImpact>Moderate, with revenue from international competitions and sponsorships.</economicImpact>
+    <equipment>Stick, ball, protective gear</equipment>
+    <rulesOverview>Two teams of eleven players aim to score goals by hitting a ball into the opponent's net using a stick.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with major tournaments for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/3oIWk5qhlC0?si=gpQdgGOkCm53CGD4</rulesVideo>
+    <matchVideo>https://youtu.be/gD07sOeBD1g?si=sSjf14LwP0gY4FQa</matchVideo>
+  </sport>
+  <sport>
+    <name>Football (Soccer)</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Worldwide</famousCountries>
+    <totalPlayers>265,000,000</totalPlayers>
+    <totalFans>4,000,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Association_football</wikipediaLink>
+    <famousAthletes>Pele, Lionel Messi, Cristiano Ronaldo</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Modern football developed in England and spread globally through the British Empire and international competitions.</historicalContext>
+    <culturalImpact>The most popular sport in the world, with deep cultural significance in almost every country.</culturalImpact>
+    <economicImpact>Very high, with substantial revenue from leagues, international tournaments, merchandise, and media rights.</economicImpact>
+    <equipment>Football, goal posts</equipment>
+    <rulesOverview>Two teams of eleven players aim to score goals by getting the ball into the opponent's net.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/qg566N-eDWo?si=pxCgtk5kxaMI7x8w</rulesVideo>
+    <matchVideo>https://youtu.be/zUTUA0TKvfQ?si=wKGklH2QNSWPWmwL</matchVideo>
+  </sport>
+  <sport>
+    <name>Futsal</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Portugal, Brazil, Spain</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Futsal</wikipediaLink>
+    <famousAthletes>Falcao, Ricardinho</famousAthletes>
+    <inceptionDate>1930s</inceptionDate>
+    <historicalContext>Originated in Uruguay and Brazil as a version of indoor football.</historicalContext>
+    <culturalImpact>Highly popular in countries with strong football traditions, serving as a training ground for many football stars.</culturalImpact>
+    <economicImpact>Moderate, with revenue from local leagues and international competitions.</economicImpact>
+    <equipment>Smaller, heavier ball, indoor court</equipment>
+    <rulesOverview>Similar to football, but played on a smaller, indoor court with five players per team.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with major tournaments for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/yASPQtZMvww?si=tlprIXpxxttBOBwr</rulesVideo>
+    <matchVideo>https://youtu.be/ACoY_MFqLMs?si=ql8-S9VluJ7yAFri</matchVideo>
+  </sport>
+  <sport>
+    <name>Gaelic Football</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Ireland</famousCountries>
+    <totalPlayers>80,000</totalPlayers>
+    <totalFans>1,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Gaelic_football</wikipediaLink>
+    <famousAthletes>Stephen Cluxton, Colm Cooper</famousAthletes>
+    <inceptionDate>1887</inceptionDate>
+    <historicalContext>Developed as a distinct Irish sport by the Gaelic Athletic Association (GAA).</historicalContext>
+    <culturalImpact>Major part of Irish culture and identity, with strong local and national competitions.</culturalImpact>
+    <economicImpact>Moderate, with revenue from GAA events and local club activities.</economicImpact>
+    <equipment>Football, goal posts</equipment>
+    <rulesOverview>Combines elements of football and rugby, with teams aiming to score by kicking or punching the ball into the opponent's goal.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with separate leagues and competitions.</genderParticipation>
+    <rulesVideo>https://youtu.be/vSOe-USZzok?si=apPotdUObGkv0EHV</rulesVideo>
+    <matchVideo>https://youtu.be/8mWveulRoog?si=3-AGh2MEK-the80_</matchVideo>
+  </sport>
+  <sport>
+    <name>Golf</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>United States, United Kingdom, Australia, South Korea</famousCountries>
+    <totalPlayers>60,000,000</totalPlayers>
+    <totalFans>450,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Golf</wikipediaLink>
+    <famousAthletes>Tiger Woods, Jack Nicklaus</famousAthletes>
+    <inceptionDate>15th Century</inceptionDate>
+    <historicalContext>Originated in Scotland and became popular worldwide through British and American influence.</historicalContext>
+    <culturalImpact>Significant cultural and social impact, with major tournaments being key sporting events.</culturalImpact>
+    <economicImpact>High, with substantial revenue from professional tours, golf courses, equipment sales, and media rights.</economicImpact>
+    <equipment>Golf clubs, balls, tees</equipment>
+    <rulesOverview>Players aim to hit a ball into a series of holes on a course in as few strokes as possible.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional tours for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/IcaFTHeVQ7w?si=B5UbxLD-1rmTrEgj</rulesVideo>
+    <matchVideo>https://youtu.be/mmtj5DurYBU?si=hMDSOiDi6UXThwN0</matchVideo>
+  </sport>
+  <sport>
+    <name>Handball</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Denmark, Germany, France, Spain</famousCountries>
+    <totalPlayers>27,000,000</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Handball</wikipediaLink>
+    <famousAthletes>Mikkel Hansen, Nikola Karabatić</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Developed in Europe, with the first modern set of rules established in Denmark in the early 1900s.</historicalContext>
+    <culturalImpact>Highly popular in Europe, with significant following and participation in schools and clubs.</culturalImpact>
+    <economicImpact>Moderate, with revenue from European leagues and international competitions.</economicImpact>
+    <equipment>Handball, goal posts</equipment>
+    <rulesOverview>Two teams of seven players aim to score by throwing a ball into the opponent's goal.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/69Ap8WsenXc?si=Kpd0yDaRPQWpoFcS</rulesVideo>
+    <matchVideo>https://youtu.be/UovdZ7XB-j0?si=XMUeybLyGskkuzzv</matchVideo>
+  </sport>
+  <sport>
+    <name>Ice Hockey</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Canada, Russia, Sweden, United States</famousCountries>
+    <totalPlayers>1,600,000</totalPlayers>
+    <totalFans>350,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Ice_hockey</wikipediaLink>
+    <famousAthletes>Wayne Gretzky, Mario Lemieux</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Originated in Canada and became popular in countries with cold climates.</historicalContext>
+    <culturalImpact>Integral to the cultural identity of countries like Canada and Russia, with major events like the Stanley Cup being national phenomena.</culturalImpact>
+    <economicImpact>High, with substantial revenue from the NHL, international tournaments, and equipment sales.</economicImpact>
+    <equipment>Stick, puck, skates, protective gear</equipment>
+    <rulesOverview>Two teams of six players aim to score goals by hitting a puck into the opponent's net using sticks.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/nv2FUnHceqU?si=JEppnFEFEgjn0OSb</rulesVideo>
+    <matchVideo>https://youtu.be/5NV2gF0LTIs?si=tBdz-xPrhbjUAy67</matchVideo>
+  </sport>
+  <sport>
+    <name>Kabaddi</name>
+    <officialCountries>Bangladesh</officialCountries>
+    <famousCountries>India, Bangladesh, Iran, Pakistan</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Kabaddi</wikipediaLink>
+    <famousAthletes>Anup Kumar, Pardeep Narwal</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>Traditional sport in South Asia, with roots in ancient Indian culture.</historicalContext>
+    <culturalImpact>Highly popular in rural areas and gaining urban appeal through professional leagues.</culturalImpact>
+    <economicImpact>Moderate, with increasing revenue from the Pro Kabaddi League in India.</economicImpact>
+    <equipment>None</equipment>
+    <rulesOverview>Teams take turns sending a "raider" into the opponent's half to tag players and return without being tackled.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/d-9eTjuXymY?si=1zM7_6kroV6qNQon</rulesVideo>
+    <matchVideo>https://youtu.be/kW6z5TyU8QA?si=MjLgEaN8LVSBVFWW</matchVideo>
+  </sport>
+  <sport>
+    <name>Kendo</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Japan</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Kendo</wikipediaLink>
+    <famousAthletes>Unknown</famousAthletes>
+    <inceptionDate>Early 20th Century</inceptionDate>
+    <historicalContext>Developed from traditional Japanese swordsmanship (kenjutsu) and modernized in the early 20th century.</historicalContext>
+    <culturalImpact>Integral to Japanese martial arts culture and widely practiced in schools and clubs.</culturalImpact>
+    <economicImpact>Moderate, with revenue from equipment sales and international tournaments.</economicImpact>
+    <equipment>Shinai (bamboo sword), Bogu (armor)</equipment>
+    <rulesOverview>Two practitioners aim to score points by striking specified target areas on the opponent's body.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with separate divisions in competitions.</genderParticipation>
+    <rulesVideo>https://youtu.be/Cb13DKpDd_k?si=G4lBvN3tkSxlDqXF</rulesVideo>
+    <matchVideo>https://youtu.be/3mUlr8grsic?si=kyA8zKpQowNp988t</matchVideo>
+  </sport>
+  <sport>
+    <name>Lacrosse</name>
+    <officialCountries>Canada</officialCountries>
+    <famousCountries>United States, Canada, Australia, United Kingdom</famousCountries>
+    <totalPlayers>800,000</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Lacrosse</wikipediaLink>
+    <famousAthletes>Gary Gait, Paul Rabil</famousAthletes>
+    <inceptionDate>17th Century</inceptionDate>
+    <historicalContext>Originated with Native American tribes and was later adopted and codified by European settlers.</historicalContext>
+    <culturalImpact>Significant cultural importance in Native American history and popular in North American schools and colleges.</culturalImpact>
+    <economicImpact>Moderate, with revenue from professional leagues, college competitions, and equipment sales.</economicImpact>
+    <equipment>Stick, ball, protective gear</equipment>
+    <rulesOverview>Teams aim to score goals by throwing a ball into the opponent's net using a lacrosse stick.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with separate rules and leagues for each gender.</genderParticipation>
+    <rulesVideo>https://youtu.be/W03VtWxOM_M?si=qxxmfE13QoriuMgl</rulesVideo>
+    <matchVideo>https://youtu.be/v0yYBvX8Tcw?si=ioxQciasTbWmAD8j</matchVideo>
+  </sport>
+  <sport>
+    <name>Motorsport</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Monaco, United States, United Kingdom, Italy</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>500,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Motorsport</wikipediaLink>
+    <famousAthletes>Michael Schumacher, Lewis Hamilton</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Developed shortly after the invention of the automobile, with the first organized races in the late 19th century.</historicalContext>
+    <culturalImpact>High cultural significance, especially in countries with famous tracks and a strong motorsport heritage.</culturalImpact>
+    <economicImpact>Very high, with substantial revenue from Formula 1, NASCAR, and other racing series.</economicImpact>
+    <equipment>Racing car, helmet, racing suit</equipment>
+    <rulesOverview>Drivers compete in races, aiming to finish in the fastest time or cover the most distance in a set period.</rulesOverview>
+    <genderParticipation>Historically male-dominated, but increasing efforts to promote female participation.</genderParticipation>
+    <rulesVideo>https://youtu.be/W1cfLjS5a0Y?si=3dQQZLYypB1DBhOq</rulesVideo>
+    <matchVideo>https://youtu.be/xQbH2TRcHsA?si=fnSRwef_nsB_6qkt</matchVideo>
+  </sport>
+  <sport>
+    <name>Netball</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>New Zealand, Australia, Jamaica, South Africa</famousCountries>
+    <totalPlayers>20,000,000</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Netball</wikipediaLink>
+    <famousAthletes>Irene van Dyk, Laura Geitz</famousAthletes>
+    <inceptionDate>1890s</inceptionDate>
+    <historicalContext>Developed from early versions of basketball, with rules codified in England in the early 20th century.</historicalContext>
+    <culturalImpact>Highly popular in Commonwealth countries, particularly among women.</culturalImpact>
+    <economicImpact>Moderate, with revenue from professional leagues and international competitions.</economicImpact>
+    <equipment>Netball, hoop, court</equipment>
+    <rulesOverview>Two teams of seven players aim to score goals by shooting the ball through the opponent's hoop.</rulesOverview>
+    <genderParticipation>Primarily played by women, though men's and mixed leagues exist.</genderParticipation>
+    <rulesVideo>https://youtu.be/V1qINnI-Dis?si=n656k0RX_BaI13uP</rulesVideo>
+    <matchVideo>https://youtu.be/cc8PXXmwRjg?si=lrd9GaJaCHsI6K7e</matchVideo>
+  </sport>
+  <sport>
+    <name>Oil Wrestling</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>Turkey</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Oil_wrestling</wikipediaLink>
+    <famousAthletes>Unknown</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>Traditional Turkish sport with roots in ancient Greco-Roman wrestling.</historicalContext>
+    <culturalImpact>Highly significant in Turkey, where it is a major cultural and historical event.</culturalImpact>
+    <economicImpact>Moderate, with revenue from festivals and competitions.</economicImpact>
+    <equipment>Leather trousers (Kispet), oil</equipment>
+    <rulesOverview>Wrestlers try to control their opponent by making them fall or by lifting them off the ground.</rulesOverview>
+    <genderParticipation>Primarily male-dominated, with limited female participation.</genderParticipation>
+    <rulesVideo>https://youtu.be/H9oe5JhKf2Q?si=KHEM8AJPqLuQlQ5T</rulesVideo>
+    <matchVideo>https://youtu.be/D2keIfaPHgw?si=nx5ADAaw6ayeNc9J</matchVideo>
+  </sport>
+  <sport>
+    <name>Paleta Frontón</name>
+    <officialCountries>Peru</officialCountries>
+    <famousCountries>Peru</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Paleta_front%C3%B3n</wikipediaLink>
+    <famousAthletes>Unknown</famousAthletes>
+    <inceptionDate>20th Century</inceptionDate>
+    <historicalContext>Developed in Peru as a variation of Basque pelota.</historicalContext>
+    <culturalImpact>Major part of Peruvian sports culture.</culturalImpact>
+    <economicImpact>Limited, primarily local revenue.</economicImpact>
+    <equipment>Paddle, ball</equipment>
+    <rulesOverview>Players hit a ball against a wall using a wooden paddle, aiming to make it difficult for the opponent to return.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women.</genderParticipation>
+    <rulesVideo>https://youtu.be/DiQnm5orBas?si=8MJ0Q2PyzaGwoG-V</rulesVideo>
+    <matchVideo>https://youtu.be/yW4ZwDTBNQM?si=9h77BcbmR_CsEoHV</matchVideo>
+  </sport>
+  <sport>
+    <name>Pato</name>
+    <officialCountries>Argentina</officialCountries>
+    <famousCountries>Argentina</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Pato</wikipediaLink>
+    <famousAthletes>Unknown</famousAthletes>
+    <inceptionDate>17th Century</inceptionDate>
+    <historicalContext>Traditional Argentine sport combining elements of polo and basketball.</historicalContext>
+    <culturalImpact>Highly significant in Argentina, where it is considered the national sport.</culturalImpact>
+    <economicImpact>Limited, primarily local revenue.</economicImpact>
+    <equipment>Horse, ball with handles</equipment>
+    <rulesOverview>Riders on horseback aim to score points by throwing a ball with handles through a vertical ring.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women.</genderParticipation>
+    <rulesVideo>https://youtu.be/HxkcfxsFqSU?si=YG_Ss9oFZmdmP1G3</rulesVideo>
+    <matchVideo>https://youtu.be/mCOo8bG4Rzo?si=RKqP9vPcnrWS4qVf</matchVideo>
+  </sport>
+  <sport>
+    <name>Rugby</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>New Zealand, South Africa, England, Australia</famousCountries>
+    <totalPlayers>6,600,000</totalPlayers>
+    <totalFans>475,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Rugby_union</wikipediaLink>
+    <famousAthletes>Jonah Lomu, Martin Johnson</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Developed in England and spread globally through the British Empire.</historicalContext>
+    <culturalImpact>Significant cultural impact in many Commonwealth countries, especially in New Zealand and South Africa.</culturalImpact>
+    <economicImpact>High, with substantial revenue from international tournaments, professional leagues, and sponsorships.</economicImpact>
+    <equipment>Rugby ball, protective gear</equipment>
+    <rulesOverview>Two teams of fifteen players aim to score points by carrying, passing, or kicking the ball to the opponent's end zone.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/smnuRhNtT2E?si=HxgxkniWRLQ5VkYg</rulesVideo>
+    <matchVideo>https://youtu.be/DfZIv2FKWj4?si=ZthxeHK6ZpviAAaq</matchVideo>
+  </sport>
+  <sport>
+    <name>Sumo Wrestling</name>
+    <officialCountries>Japan</officialCountries>
+    <famousCountries>Japan</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Sumo</wikipediaLink>
+    <famousAthletes>Hakuho Sho, Takanohana</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>Traditional Japanese sport with deep cultural and religious significance.</historicalContext>
+    <culturalImpact>Integral to Japanese culture and tradition, with major tournaments being national events.</culturalImpact>
+    <economicImpact>Moderate, with revenue from major tournaments and sponsorships.</economicImpact>
+    <equipment>Mawashi (loincloth)</equipment>
+    <rulesOverview>Two wrestlers aim to force their opponent out of the ring or make them touch the ground with any body part other than the soles of their feet.</rulesOverview>
+    <genderParticipation>Primarily male-dominated, with limited female participation.</genderParticipation>
+    <rulesVideo>https://youtu.be/EMANOt2Jw88?si=YxGrBETgQm0rgF7Q</rulesVideo>
+    <matchVideo>https://youtu.be/E0Xl1f-fXLo?si=9aOmM0boeyb0c2Vy</matchVideo>
+  </sport>
+  <sport>
+    <name>Table Tennis</name>
+    <officialCountries>China, Singapore</officialCountries>
+    <famousCountries>China, Japan, Germany, South Korea</famousCountries>
+    <totalPlayers>300,000,000</totalPlayers>
+    <totalFans>900,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Table_tennis</wikipediaLink>
+    <famousAthletes>Ma Long, Deng Yaping</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Developed in England as an indoor version of lawn tennis and became highly popular in Asia.</historicalContext>
+    <culturalImpact>Major cultural significance in China, where it is a national pastime and a source of national pride.</culturalImpact>
+    <economicImpact>Moderate, with revenue from international tournaments and equipment sales.</economicImpact>
+    <equipment>Table, paddles, ball</equipment>
+    <rulesOverview>Players hit a lightweight ball back and forth across a table using small paddles, aiming to score points by landing the ball on the opponent's side.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/zSKpxB3rOB8?si=1S1E7w7mh_LgrBAm</rulesVideo>
+    <matchVideo>https://youtu.be/nd40lIYtQmA?si=tIpC3kkUwWOalQlH</matchVideo>
+  </sport>
+  <sport>
+    <name>Taekwondo</name>
+    <officialCountries>South Korea</officialCountries>
+    <famousCountries>South Korea</famousCountries>
+    <totalPlayers>70,000,000</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Taekwondo</wikipediaLink>
+    <famousAthletes>Hadi Saei, Steven Lopez</famousAthletes>
+    <inceptionDate>1940s</inceptionDate>
+    <historicalContext>Modern martial art developed in South Korea, combining elements of traditional Korean martial arts with influences from karate.</historicalContext>
+    <culturalImpact>Highly significant in South Korea, where it is a major part of the national identity and cultural heritage.</culturalImpact>
+    <economicImpact>Moderate, with revenue from dojangs (training schools), international tournaments, and equipment sales.</economicImpact>
+    <equipment>Dobok (uniform), belt, protective gear</equipment>
+    <rulesOverview>Practitioners aim to score points by landing kicks and punches on the opponent's scoring areas.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/7-iIq3ikA3M?si=daw7NSQoPAxT6xM5</rulesVideo>
+    <matchVideo>https://youtu.be/sdkCKqAIE74?si=IwUJXR6_5FrC7IYz</matchVideo>
+  </sport>
+  <sport>
+    <name>Tennis</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>United States, United Kingdom, Australia, France</famousCountries>
+    <totalPlayers>87,000,000</totalPlayers>
+    <totalFans>1,000,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Tennis</wikipediaLink>
+    <famousAthletes>Roger Federer, Serena Williams</famousAthletes>
+    <inceptionDate>19th Century</inceptionDate>
+    <historicalContext>Modern tennis developed in England, with the first Wimbledon tournament held in 1877.</historicalContext>
+    <culturalImpact>Major cultural significance in many countries, with the four Grand Slam tournaments being key sporting events.</culturalImpact>
+    <economicImpact>High, with substantial revenue from tournaments, sponsorships, and media rights.</economicImpact>
+    <equipment>Racket, ball, net</equipment>
+    <rulesOverview>Players hit a ball over a net, aiming to land it in the opponent's court in a way that prevents a valid return.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional tours and Grand Slam tournaments for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/1P_Das6OjAk?si=Jjw9tqiEeL6yNIEV</rulesVideo>
+    <matchVideo>https://youtu.be/CGRzfUccmNE?si=WXE-Y7dogC__Rls9</matchVideo>
+  </sport>
+  <sport>
+    <name>Volleyball</name>
+    <officialCountries>Sri Lanka</officialCountries>
+    <famousCountries>Brazil, Russia, United States, Japan</famousCountries>
+    <totalPlayers>800,000,000</totalPlayers>
+    <totalFans>900,000,000</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Volleyball</wikipediaLink>
+    <famousAthletes>Karch Kiraly, Giba</famousAthletes>
+    <inceptionDate>1895</inceptionDate>
+    <historicalContext>Invented by William G. Morgan in the United States as a less strenuous alternative to basketball.</historicalContext>
+    <culturalImpact>Highly popular worldwide, with strong cultural significance in countries like Brazil and Japan.</culturalImpact>
+    <economicImpact>Moderate, with revenue from international competitions, professional leagues, and equipment sales.</economicImpact>
+    <equipment>Volleyball, net</equipment>
+    <rulesOverview>Teams of six players aim to score points by hitting a ball over the net and into the opponent's court.</rulesOverview>
+    <genderParticipation>High participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/9g7nYQv-kPM?si=FdEePbJ7_PiN3R8q</rulesVideo>
+    <matchVideo>https://youtu.be/mSlJCiiYkBA?si=OkDPYIPZNp0V5SNi</matchVideo>
+  </sport>
+  <sport>
+    <name>Wrestling</name>
+    <officialCountries>None</officialCountries>
+    <famousCountries>United States, Russia, Iran, Japan</famousCountries>
+    <totalPlayers>Unknown</totalPlayers>
+    <totalFans>Unknown</totalFans>
+    <wikipediaLink>https://en.wikipedia.org/wiki/Wrestling</wikipediaLink>
+    <famousAthletes>Dan Gable, Aleksandr Karelin</famousAthletes>
+    <inceptionDate>Ancient Times</inceptionDate>
+    <historicalContext>One of the oldest forms of combat sport, with evidence from ancient civilizations such as Greece, Rome, and Egypt.</historicalContext>
+    <culturalImpact>Significant cultural importance in many countries, with a strong presence in the Olympics and local traditions.</culturalImpact>
+    <economicImpact>Moderate, with revenue from international competitions, professional leagues, and media rights.</economicImpact>
+    <equipment>Wrestling mat, singlet, headgear</equipment>
+    <rulesOverview>Two competitors aim to pin their opponent to the mat or score points through various holds and techniques.</rulesOverview>
+    <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
+    <rulesVideo>https://youtu.be/gp-hWr-opUc?si=jvAdiUDoopBrgxt3</rulesVideo>
+    <matchVideo>https://youtu.be/v1hKWYRuGVg?si=DmFzL-s68pARgEMF</matchVideo>
+  </sport>
+</sports>
