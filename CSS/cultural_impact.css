@@ -1,1 +1,205 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+#cultural_sports_description {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  background-position: center;
 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../Images/background_white.png");
+}
+
+#cultural_sports_description > h5:nth-of-type(2),
+#cultural_sports_description > h5:nth-of-type(3),
+#cultural_sports_description > h5:nth-of-type(5) {
+  color: #2f535a;
+}
+
+main > *:not(.full-title, img) {
+  padding: 40px;
+}
+
+.full-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  color: white;
+  height: 56px;
+  background-color: var(--green1-400);
+}
+
+#athletes-container {
+  display: grid;
+  gap: 24px;
+  justify-content: space-around;
+  grid-template-columns: 49% 49%;
+  /* grid-auto-rows: 50% 50%; */
+}
+
+.athlete {
+  display: flex;
+  flex-direction: column;
+}
+.athlete > h5:nth-of-type(1) {
+  padding: 8px;
+  display: grid;
+  place-items: center;
+  background-color: white;
+}
+
+.athlete > h5:nth-of-type(2) {
+  padding: 8px;
+  display: grid;
+  place-items: center;
+  background-color: var(--green1-200);
+}
+.athlete-body {
+  display: grid;
+  height: 100%;
+  background-color: var(--green2-100);
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 100%;
+  border: 1px solid #423f3f;
+  justify-content: space-between;
+}
+
+.athlete-body > img {
+  min-width: 200px;
+  padding: 24px;
+}
+.athlete-body > h6 {
+  padding-top: 24px;
+  padding-right: 24px;
+}
+
+.athlete > h6 {
+  background-color: #423f3f;
+  padding: 16px;
+  color: white;
+}
+
+#what-sports-mean-to-you {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.title-with-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+#what-sports-mean-to-you > h6 {
+  color: var(--green1-100);
+  max-width: 1200px;
+  align-self: center;
+}
+
+.form-example {
+  grid-template-columns: 25% 75%;
+  max-width: 1000px;
+  width: 100%;
+  padding: 80px 0;
+  align-self: center;
+  grid-template-rows: 100%;
+  justify-content: space-between;
+  display: grid;
+  gap: 24px;
+}
+.left-side {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+input {
+  background-color: var(--green1-300);
+  border-radius: 8px;
+  border: 1px solid rgb(50, 50, 50);
+  color: white;
+  padding: 8px 16px;
+}
+textarea {
+  background-color: var(--green1-400);
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: var(--h6);
+  border: 1px solid rgb(50, 50, 50);
+  color: white;
+  min-height: 140px;
+  padding-top: 16px;
+}
+
+button {
+  background-color: var(--blue1-500);
+  padding: 12px;
+  display: grid;
+  border-radius: 8px;
+  place-items: center;
+  cursor: pointer;
+  color: white;
+  width: 100%;
+  margin-top: 24px;
+  border: 2px solid black;
+  border-top: none;
+  border-left: none;
+  transition: 300ms border, 300ms background-color;
+}
+
+button:hover {
+  background-color: var(--blue1-600);
+}
+
+button:active {
+  border: 0px solid black;
+}
+
+#daily-life-description {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#daily-life-description > h5:nth-of-type(2) {
+  color: var(--green1-100);
+}
+
+#daily-life-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.daily-life-event {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.daily-life-event > h4 {
+  text-align: center;
+}
+
+.daily-life-event > h5 {
+  color: var(--green1-200);
+}
+
+.daily-life-event > div {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  grid-template-rows: 100%;
+  justify-content: space-between;
+}
+
+iframe {
+  width: 100%;
+}

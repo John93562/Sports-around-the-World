@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Download Contents of Website</title>
+    <meta
+      name="description"
+      content="Explore the cultural impact of sports across the globe, featuring famous stadiums, sports traditions, and more."
+    />
+    <meta
+      name="keywords"
+      content="sports, global sports, sports culture, famous stadiums, sports traditions, sports tourism"
+    />
+    <meta name="author" content="john93562" />
+    <link rel="icon" href="/Images/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="../CSS/general.css" />
+    <link rel="stylesheet" href="../CSS/download.css" />
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+    <script src="../JS/general.js" type="module"></script>
+
+    <script src="../JS/download.js" defer></script>
+  </head>
+  <body>
+    <header role="banner">
+      <div id="header-top-part">
+        <img
+          src="/Images/logo.svg"
+          width="56"
+          alt="Sports Around the World Logo"
+        />
+        <div id="title-wavy">
+          <h5>Sports all Around the World</h5>
+          <h5>Sports all Around the World</h5>
+        </div>
+
+        <div id="header-group-of-sports" aria-label="Group of sports icons">
+          <img src="/Images/kung_fu.svg" width="24" alt="Kung Fu" />
+          <img src="/Images/mountain.svg" width="24" alt="Mountain Climbing" />
+          <img src="/Images/football.svg" width="24" alt="Football" />
+          <img src="/Images/waves.svg" width="24" alt="Surfing" />
+          <img src="/Images/camel.svg" width="24" alt="Camel Racing" />
+          <img src="/Images/rugby.svg" width="24" alt="Rugby" />
+        </div>
+      </div>
+      <nav aria-label="Main navigation">
+        <ul>
+          <li>
+            <a href="../index.html">
+              <img src="/Images/world.svg" width="32" alt="Home icon" /> Home</a
+            >
+          </li>
+          <li>
+            <a href="./cultural_impact.html">
+              <img src="/Images/culture.svg" width="32" alt="Culture icon" />
+              Cultural Impact of Sports</a
+            >
+          </li>
+          <li>
+            <a href="./turism.html">
+              <img src="/Images/stadium.svg" width="32" alt="Stadium icon" />
+              Turism</a
+            >
+          </li>
+          <li>
+            <a class="active" href="./downloads.html">
+              <img src="/Images/download.svg" width="32" alt="Download icon" />
+              Downloads</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <div id="loading">
+      <div class="loader"></div>
+    </div>
+
+    <main>
+      <h5>
+        Here we can download all of the XML that was used in the whole Website
+      </h5>
+
+      <table class="fl-table">
+        <thead>
+          <tr>
+            <th scope="col">Page</th>
+            <th scope="col">File(s)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Home</th>
+            <td>
+              <button class="countries_download">countries.xml</button>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Specific Sports</th>
+            <td>
+              <button class="sports_download">sports.xml</button>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Cultural Impact of Sports</th>
+            <td>
+              <button class="athletes_download">athletes.xml</button>
+              <button class="sports_daily_lives_download">
+                sports_daily_lives.xml
+              </button>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">Turism</th>
+            <td>
+              <button class="sport_museums_download">sport_museums.xml</button>
+              <button class="stadiums_download">stadiums.xml</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+
+    <footer>
+      <h6>Created by<br />Ioannis Krokidis</h6>
+      <h6>Thank you so much for your interest and your time!</h6>
+      <div>
+        <img src="../Images/universidade_da_maia.png" height="88" />
+        <p class="h7">
+          I have no Copyrighs to anything. <br />This website is intended for a
+          UMAIA School Project <br />No Effectiveness of GPDR or Privacy
+          Licenses <br />Also the information presented in this website might be
+          inacurrate
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

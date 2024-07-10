@@ -127,8 +127,9 @@ if (!query.sport) {
       }
     });
 
-    $("#sport_popularity").text(sport.totalPlayers);
-    $("#sport_fans").text(sport.totalFans);
+    $("#sport_popularity").text("~" + sport.totalPlayers + " Players");
+
+    $("#sport_fans").text("~" + sport.totalFans + " Fans");
 
     $("#sport_famous_athletes").text(sport.famousAthletes);
 
