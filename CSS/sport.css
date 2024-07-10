@@ -1,0 +1,143 @@
+#background-image {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0.2;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+body {
+  background-color: var(--green2-100);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+#sport_name {
+  color: transparent;
+  text-align: center;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: var(--green1-100);
+}
+
+main > *:not(iframe) {
+  padding: 0 24px;
+}
+#sport_description {
+}
+
+#countries {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.countries-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 48%;
+}
+
+.countries-container > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 56px;
+  padding: 16px;
+
+  background-color: #b1d8c8;
+  border: 1px solid var(--green2-1000);
+}
+
+.countries-container > div > div {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+#popularities {
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  align-self: center;
+  justify-content: space-between;
+  align-items: center;
+}
+#popularities > div {
+  display: flex;
+  align-items: center;
+}
+
+#sport_information {
+  display: grid;
+  padding: 32px 24px;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+  gap: 24px;
+}
+
+#sport_information > div {
+  display: flex;
+  gap: 8px;
+}
+#sport_information > div > h5:nth-of-type(1) {
+  color: var(--green1-100);
+}
+
+.historical {
+  display: flex;
+  flex-direction: column;
+}
+
+.title_historical {
+  display: flex;
+  gap: 8px;
+}
+.historical > h6 {
+  margin-top: 8px;
+  width: 100%;
+  background-color: var(--green1-400);
+  min-height: 72px;
+  padding: 16px;
+}
+
+.historical:nth-of-type(1) > h6,
+.historical:nth-of-type(2) > h6 {
+  background-color: white;
+}
+
+#economical_and_cultural {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  grid-template-rows: 100%;
+  justify-content: space-between;
+}
+
+#wikipedia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 40px;
+}
+#sport_not_found {
+  justify-content: center;
+  align-items: center;
+  padding-top: 140px;
+  gap: 24px;
+  padding-bottom: 120px;
+  flex-direction: column;
+}
+#sport_not_found > h4:nth-of-type(1) {
+  color: var(--green1-400);
+}
+#sport_not_found > a {
+  text-decoration: underline;
+  color: var(--green1-100);
+}

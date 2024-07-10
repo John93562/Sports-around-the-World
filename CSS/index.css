@@ -1,0 +1,269 @@
+main > *:not(#countries-and-their-sports) {
+  padding: 24px;
+}
+
+#globe-with-information {
+  position: relative;
+}
+#website-info-and-globe-country-preview {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-right: 24px;
+}
+#intro-heading {
+  color: #325346;
+}
+#has-not-hovered-globe {
+  display: flex;
+  flex-direction: column;
+  color: #3d4a4c;
+}
+
+#has-hovered-globe {
+  display: flex;
+  flex-direction: column;
+  min-height: 600px;
+}
+
+#globe-info-title {
+  display: grid;
+  background-color: white;
+  min-height: 56px;
+  place-items: center;
+  position: relative;
+}
+
+#country-hovered-img {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+
+  translate: 0 -50%;
+}
+#globe-info-content {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 100%;
+}
+
+#globe-info-national-sport,
+#globe-info-most-played-sports {
+  display: flex;
+  flex-direction: column;
+}
+
+#globe-info-national-sport h6,
+#globe-info-most-played-sports h6 {
+  display: grid;
+  width: 100%;
+  place-items: center;
+  height: 40px;
+}
+
+#globe-info-national-sport > div,
+#globe-info-most-played-sports,
+#globe-info-national-sport {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: start;
+  align-items: center;
+  color: white;
+}
+#globe-info-national-sport h6 {
+  background-color: #325d66;
+}
+#globe-info-most-played-sports h6 {
+  background-color: #244d55;
+}
+#globe-info-national-sports-content {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  width: 100%;
+  min-height: 300px;
+  background-color: #0f1e21;
+  align-items: start !important;
+  text-align: left;
+}
+
+#globe-info-most-played-sports-content {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  width: 100%;
+  gap: 16px;
+  min-height: 300px;
+  background-color: #14292d;
+  align-items: start !important;
+  text-align: left;
+}
+
+#website-info-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+#website-info-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+#website-info-content {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  gap: 0px;
+  padding-top: 16px;
+}
+
+#website-info-content > h5 {
+  padding: 16px;
+}
+
+#website-info-content > div {
+  padding: 24px;
+  margin-top: 40px;
+  background-color: #7dc1a6;
+  display: flex;
+  gap: 40px;
+  min-height: 320px;
+  flex-direction: column;
+}
+
+#website-info-content > div > h5:nth-of-type(1) {
+  color: white;
+}
+
+#website-info-content > div > h6:nth-of-type(1) {
+  color: #535353;
+}
+
+#website-info-content > div > h6:nth-of-type(2) {
+  color: black;
+}
+
+#countries-and-their-sports {
+  display: grid;
+  width: 100vw;
+  grid-template-columns: 20% 80%;
+}
+
+#countries-list {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background-color: #1b3235;
+}
+#countries-heading {
+  display: grid;
+  width: 100%;
+  padding: 16px;
+  place-items: center;
+  color: white;
+}
+#countries-list-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  max-height: 90vh;
+  overflow: auto;
+}
+
+.country {
+  width: 100%;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  background-color: white;
+  padding: 8px;
+  gap: 8px;
+  transition: 300ms background-color;
+}
+.country:hover {
+  background-color: var(--green2-100);
+}
+
+#no-country-selected {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  padding: 80px;
+}
+
+#specific-country {
+  background-color: #eaf4f0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+}
+#specific-country-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+#specific-country-national-sport {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+#specific-country-famous-sports {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+#specific-country-national-sport > a {
+  background-color: var(--green1-400);
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: 300ms background-color;
+}
+#specific-country-national-sport > a:hover {
+  background-color: var(--green1-600);
+}
+
+#specific-country-national-sport > h6 {
+  color: #a8925a;
+}
+#specific-country-famous-sports-container {
+  min-height: 120px;
+  padding: 16px;
+  display: flex;
+  gap: 16px;
+
+  background-color: #3d4a4c;
+}
+
+#specific-country-famous-sports-container > a {
+  background-color: var(--green1-200);
+  padding: 8px 16px;
+  color: white;
+  height: min-content;
+  border-radius: 8px;
+  transition: 300ms background-color;
+}
+
+#specific-country-famous-sports-container > a:hover {
+  background-color: var(--green1-300);
+}
+
+#specific-country-map-container {
+  max-height: 400px;
+  overflow: auto;
+  display: grid;
+  padding: 0 120px;
+  place-items: center;
+}

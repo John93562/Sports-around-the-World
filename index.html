@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Sports All Around the World</title>
@@ -16,7 +15,263 @@
     />
     <meta name="author" content="john93562" />
     <link rel="icon" href="Images/favicon.ico" type="image/x-icon" />
-    <!-- Favicon -->
+    <link rel="stylesheet" href="./CSS/general.css" />
+    <link rel="stylesheet" href="./CSS/index.css" />
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+    <script src="./JS/general.js" type="module"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="https://d3js.org/d3-drag.v2.min.js"></script>
+    <script src="https://bl.ocks.org/mbostock/raw/7ea1dde508cec6d2d95306f92642bc42/6aac691494f752142a67cc43c51a0fd09896dbd4/versor.js"></script>
+
+    <script src="./JS/globe.js" defer></script>
+
+    <script src="./JS/index.js" defer></script>
   </head>
-  <body></body>
+  <body>
+    <header role="banner">
+      <div id="header-top-part">
+        <img
+          src="/Images/logo.svg"
+          width="56"
+          alt="Sports Around the World Logo"
+        />
+        <div id="title-wavy">
+          <h5>Sports all Around the World</h5>
+          <h5>Sports all Around the World</h5>
+        </div>
+
+        <div id="header-group-of-sports" aria-label="Group of sports icons">
+          <img src="/Images/kung_fu.svg" width="24" alt="Kung Fu" />
+          <img src="/Images/mountain.svg" width="24" alt="Mountain Climbing" />
+          <img src="/Images/football.svg" width="24" alt="Football" />
+          <img src="/Images/waves.svg" width="24" alt="Surfing" />
+          <img src="/Images/camel.svg" width="24" alt="Camel Racing" />
+          <img src="/Images/rugby.svg" width="24" alt="Rugby" />
+        </div>
+      </div>
+      <nav aria-label="Main navigation">
+        <ul>
+          <li>
+            <a class="active" href="#">
+              <img src="/Images/world.svg" width="32" alt="Home icon" /> Home</a
+            >
+          </li>
+          <li>
+            <a href="./Pages/cultural_impact.html">
+              <img src="/Images/culture.svg" width="32" alt="Culture icon" />
+              Cultural Impact of Sports</a
+            >
+          </li>
+          <li>
+            <a href="./Pages/turism.html">
+              <img src="/Images/stadium.svg" width="32" alt="Stadium icon" />
+              Turism</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <div id="loading">
+      <div class="loader"></div>
+    </div>
+
+    <main>
+      <section id="globe-with-information">
+        <div id="introduction-frame" aria-labelledby="intro-heading">
+          <div class="stars">
+            <div class="clouds"><canvas id="globe"></canvas></div>
+          </div>
+        </div>
+        <div id="website-info-and-globe-country-preview">
+          <h4 id="intro-heading">
+            Welcome to a Page Dedicated for Sports Appreciation throughout the
+            Globe!
+          </h4>
+
+          <div id="has-not-hovered-globe">
+            <h5>
+              You can <span class="semibold">hover</span> the Interactive Globe
+              in order to see the
+              <span class="semibold">Most Famous and Played Sports</span> in a
+              specific country
+            </h5>
+          </div>
+
+          <div id="has-hovered-globe" style="display: none">
+            <div id="globe-info-title">
+              <img
+                id="country-hovered-img"
+                src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+                width="40"
+                class="flag"
+                alt="Country flag"
+              />
+              <h5 id="country-hovered-name">Belgium</h5>
+            </div>
+            <div id="globe-info-content">
+              <div id="globe-info-national-sport">
+                <h6>National Sports</h6>
+                <div id="globe-info-national-sports-content">
+                  <a>Football (Soccer)</a>
+                </div>
+              </div>
+              <div id="globe-info-most-played-sports">
+                <h6>Most Played Sports</h6>
+                <div id="globe-info-most-played-sports-content">
+                  <a>Football (Soccer)</a>
+                  <a>Cycling</a>
+                  <a>Tennis</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="website-info-frame" aria-labelledby="info-heading">
+        <div id="website-info-title">
+          <img src="./Images/world.svg" width="32" alt="World icon" />
+          <h5 id="info-heading">Exploring the World Through Sports</h5>
+        </div>
+
+        <div id="website-info-content">
+          <h5>
+            This Website is focusing on the appreciation of how the sports have
+            been integrated into each Country.
+          </h5>
+          <h5>
+            The whole theme has a wider spectrum, sports is only a part of part,
+            of understanding the countrie’s culture.
+          </h5>
+          <div>
+            <h5>
+              Each country has evolved differently which makes each one really
+              unique.
+            </h5>
+
+            <h6>
+              The whole objective of this Website is to focus and appreciate on
+              the Sports Theme regarding the different cultures. Here we can
+              easily find all of the countries with the nationality’s sport as
+              well as most famous sports played on that country. And also the
+              Impact of Sports in Cultures. How it transformed them and Sports
+              Turism such as famous Sport Stadeums and famous Museums conserving
+              the history of Sports as time passes.
+            </h6>
+
+            <h6>
+              I’m really amazed to learn by travelling that other countries
+              don’t perceive the sports the same as we do. It’s common yes and
+              everyone has closely similar opinions regarding that but if we dig
+              down on each country the perspectives are way different than we
+              can actually imagine.
+            </h6>
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="countries-and-their-sports"
+        aria-labelledby="countries-heading"
+      >
+        <div id="countries-list">
+          <h5 id="countries-heading">Countries</h5>
+
+          <div id="countries-list-container" role="list">
+            <div class="country" role="listitem">
+              <img
+                width="40"
+                src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+                alt="Flag of Belgium"
+              />
+              <h6>Belgium</h6>
+            </div>
+
+            <div class="country" role="listitem">
+              <img
+                width="40"
+                src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+                alt="Flag of Bhutan"
+              />
+              <h6>Bhutan</h6>
+            </div>
+          </div>
+        </div>
+
+        <div id="no-country-selected">
+          <h4>
+            Please Select a country on the left to see Information regarding
+            Sports
+          </h4>
+          <img
+            src="./Images/earth_observe.svg"
+            width="400"
+            alt="Earth observation illustration"
+          />
+        </div>
+        <div id="specific-country" style="display: none">
+          <div id="specific-country-title">
+            <img
+              id="specific-country-img"
+              src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+              width="40"
+              alt="Flag of Belgium"
+            />
+            <h4 id="specific-country-name">Belgium (BE)</h4>
+          </div>
+
+          <div id="specific-country-national-sport">
+            <h5>National Sport:</h5>
+            <a
+              href="./Pages/sport.html?sport=Football (Soccer)"
+              id="specific-country-national-sport-name"
+              >Football (Soccer)</a
+            >
+            <h6 id="specified-country-national-sport-declared-as-national">
+              ( Not Declared as “Official National Sport” )
+            </h6>
+          </div>
+
+          <div id="specific-country-famous-sports">
+            <h5>Famous Sports</h5>
+            <div id="specific-country-famous-sports-container">
+              <a href="./Pages/sport.html?sport=Football (Soccer)"
+                >Football (Soccer)</a
+              >
+              <a href="./Pages/sport.html?sport=Cycling">Cycling</a>
+              <a href="./Pages/sport.html?sport=Tennis">Tennis</a>
+            </div>
+            <div id="specific-country-map-container">
+              <img
+                id="specific-country-map"
+                src="https://simplemaps.com/static/svg/country/be/admin1/be.svg"
+                alt="Map of Belgium"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <h6>Created by<br />Ioannis Krokidis</h6>
+      <h6>Thank you so much for your interest and your time!</h6>
+      <div>
+        <img src="./Images/universidade_da_maia.png" height="88" />
+        <p class="h7">
+          I have no Copyrighs to anything. <br />This website is intended for a
+          UMAIA School Project <br />No Effectiveness of GPDR or Privacy
+          Licenses <br />Also the information presented in this website might be
+          inacurrate
+        </p>
+      </div>
+    </footer>
+  </body>
 </html>

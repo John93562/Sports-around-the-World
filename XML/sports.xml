@@ -17,6 +17,7 @@
     <genderParticipation>Both men and women compete, with strong participation in both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/5U53PllOWvU?si=tPcUwVQ1TwEugwXs</rulesVideo>
     <matchVideo>https://youtu.be/rzj4FFi7wt8?si=Cb7gjlgxbE_fRAvZ</matchVideo>
+    <description>Archery, one of the oldest sports in the world, involves using a bow to shoot arrows at a target. This sport requires precision, control, focus, and upper body strength. Historically, archery was a vital skill for hunting and combat. Today, it is practiced worldwide, both recreationally and competitively. Modern archery includes various forms such as target archery, field archery, and 3D archery. In the Olympics, it is a prominent event with individual and team competitions. Bhutan is renowned for its traditional archery competitions, where it's not just a sport but a significant part of the culture, often accompanied by festivities and social gatherings.</description>
   </sport>
   <sport>
     <name>Athletics</name>
@@ -35,6 +36,7 @@
     <genderParticipation>Strong participation from both men and women globally.</genderParticipation>
     <rulesVideo>https://youtu.be/a6Wy-FxGIdA?si=L4JjtAFw2ykaIkY9</rulesVideo>
     <matchVideo>https://youtu.be/IQcTd4xZ44o?si=4v3E0XwlATf0Fcqs</matchVideo>
+    <description>Athletics, commonly referred to as track and field, is a collection of sporting events that involve running, jumping, throwing, and walking. The sport is divided into track events (sprints, middle and long-distance races, relays), field events (jumps and throws), and combined events (decathlon, heptathlon). Originating from ancient Greek Olympic Games, athletics is considered the epitome of physical prowess and competitive spirit. Notable global competitions include the Olympics, World Championships, and various continental championships. Kenya and Ethiopia are known for their dominance in long-distance running, producing some of the world's best athletes who have set numerous records and won multiple medals.</description>
   </sport>
   <sport>
     <name>Australian Rules Football</name>
@@ -53,6 +55,7 @@
     <genderParticipation>Increasing participation from women, with the establishment of the AFL Women's league.</genderParticipation>
     <rulesVideo>https://youtu.be/u_SqfNNfhmM?si=saRT1-FG7XFx3jGY</rulesVideo>
     <matchVideo>https://youtu.be/2w3boaCQAmg?si=n3m8fyQ-ke2xEgmV</matchVideo>
+    <description>Australian Rules Football, commonly known as Aussie Rules or AFL, is a fast-paced, contact sport played between two teams of 18 players on an oval field. The objective is to score points by kicking the ball between the opponent's goal posts. The sport is known for its high physical demand, requiring players to possess stamina, strength, and agility. Originating in Melbourne in 1859, it was initially designed to keep cricketers fit during winter. Today, it is the most popular spectator sport in Australia, with a dedicated fan base and a professional league, the AFL. The sport's influence extends beyond the field, contributing significantly to the Australian national identity and culture.</description>
   </sport>
   <sport>
     <name>Badminton</name>
@@ -71,6 +74,7 @@
     <genderParticipation>Equally popular among men and women, with mixed doubles events in major tournaments.</genderParticipation>
     <rulesVideo>https://youtu.be/UyLIi-TbcFc?si=vrpY2sRyZtGc381R</rulesVideo>
     <matchVideo>https://www.youtube.com/live/xNLb1jYLIps?si=iSgeGJNN00vE-H6A</matchVideo>
+    <description>Badminton is a dynamic racquet sport played by either two opposing players (singles) or two opposing pairs (doubles). The game involves striking a shuttlecock over a net to land in the opponent's half of the court. Known for its fast pace and agility requirements, badminton demands quick reflexes, tactical skills, and endurance. It originated in British India in the 19th century and quickly gained popularity in England before spreading globally. Today, it is especially popular in Asia, with China, Indonesia, and India being powerhouses in the sport. Badminton is an Olympic sport and features in major events such as the World Championships and the All England Open.</description>
   </sport>
   <sport>
     <name>Baseball</name>
@@ -89,6 +93,7 @@
     <genderParticipation>Primarily male-dominated, though there are women's leagues and increasing female participation at youth levels.</genderParticipation>
     <rulesVideo>https://youtu.be/E160D9rEY0M?si=sBbStXfyzk3g9hMH</rulesVideo>
     <matchVideo>https://youtu.be/qkRUcYHJ1JI?si=-n62xehLOpnkqvXb</matchVideo>
+    <description>Baseball is a bat-and-ball sport played between two teams of nine players each, who take turns batting and fielding. The game's objective is to score runs by hitting a ball thrown by a pitcher and running around a series of bases to return to home plate. Originating in the United States in the 19th century, baseball is often referred to as "America's pastime" due to its deep roots in American culture and history. It is also highly popular in Japan, South Korea, and several Latin American countries. Major League Baseball (MLB) in the US and Nippon Professional Baseball (NPB) in Japan are the sport's premier leagues, showcasing top talent and attracting millions of fans worldwide.</description>
   </sport>
   <sport>
     <name>Basketball</name>
@@ -107,6 +112,7 @@
     <genderParticipation>High participation from both men and women, with professional leagues for both genders worldwide.</genderParticipation>
     <rulesVideo>https://youtu.be/wYjp2zoqQrs?si=Z6PGPjnS-o9ikoLu</rulesVideo>
     <matchVideo>https://youtu.be/LPDnemFoqVk?si=9QLwghYqXyHrHbEA</matchVideo>
+    <description>Basketball is a fast-paced team sport played on a rectangular court by two teams of five players each. The objective is to score points by shooting the ball through the opponent's hoop. Invented in 1891 by James Naismith as an indoor activity to keep students fit during winter, basketball has grown into one of the world's most popular and widely viewed sports. The NBA, based in the United States, is the premier professional league, featuring globally recognized stars and high-intensity games. The sport's influence extends beyond North America, with significant followings in countries like China, Canada, and the Philippines, and it is a staple in the Olympic Games.</description>
   </sport>
   <sport>
     <name>Boxing</name>
@@ -125,6 +131,7 @@
     <genderParticipation>Historically male-dominated, but women's boxing has gained significant recognition and participation.</genderParticipation>
     <rulesVideo>https://youtu.be/arhG9WrghHM?si=yg-pUSg6cuztXRbZ</rulesVideo>
     <matchVideo>https://youtu.be/p6MYhU97MSY?si=tASsR1H6CzFzxSIa</matchVideo>
+    <description>Boxing is a combat sport in which two participants, typically wearing protective gloves, throw punches at each other for a predetermined set of time in a boxing ring. The objective is to score points by landing punches or to win by knockout, where one fighter is unable to continue. Boxing has ancient origins, with evidence of similar sports in Greece and Rome. It has evolved into a structured sport with amateur and professional levels, governed by various organizations. Countries like the United States, Mexico, and the Philippines have produced legendary boxers who have become cultural icons. Major boxing events are significant media spectacles, generating substantial revenue through ticket sales and pay-per-view.</description>
   </sport>
   <sport>
     <name>Camel Racing</name>
@@ -143,6 +150,7 @@
     <genderParticipation>Primarily male-dominated, but women are increasingly participating in training and organizing events.</genderParticipation>
     <rulesVideo>https://youtu.be/DbWvWxGfDSc?si=sG-f3W7fYD7_UyTn</rulesVideo>
     <matchVideo>https://youtu.be/6ll4-OiLn4E?si=7nM4MAMnBrdWisGv</matchVideo>
+    <description>Camel racing is a traditional sport in the Middle East, deeply rooted in Bedouin culture and heritage. The sport involves racing camels, often guided by jockeys or robotic jockeys, over a set distance. It is a popular and culturally significant activity in countries like Saudi Arabia and the United Arab Emirates, where it is celebrated with grand festivals and events. Camel racing is not only a sport but also a social and economic activity, with significant investments in camel breeding and training. The races attract large crowds and are often accompanied by music, dance, and other cultural festivities, reflecting the rich traditions of the region.</description>
   </sport>
   <sport>
     <name>Cricket</name>
@@ -161,6 +169,7 @@
     <genderParticipation>Both men and women participate at all levels, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/AqtpNkMvj5Y?si=M-p5yQpRFDmrNuoJ</rulesVideo>
     <matchVideo>https://youtu.be/WQdqgrWvy6g?si=MHc5trDNqy_xmb-V</matchVideo>
+    <description>Cricket is a bat-and-ball game played between two teams of eleven players on a field with a 22-yard pitch at its center. The game involves batting, fielding, and bowling, with the objective of scoring runs and dismissing the opposing team's players. Originating in England in the 16th century, cricket spread globally through the British Empire and became a major sport in countries like India, Australia, England, and Pakistan. The sport is celebrated for its rich history, strategic depth, and cultural significance. Major competitions include the Cricket World Cup, The Ashes, and the Indian Premier League (IPL), which attract massive global audiences and generate substantial economic impact.</description>
   </sport>
   <sport>
     <name>Cross-country Skiing</name>
@@ -179,6 +188,7 @@
     <genderParticipation>Equal participation from men and women, with events in the Winter Olympics for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/MXxl7Ee6xl0?si=n5jvREJ2IE1G6Hn5</rulesVideo>
     <matchVideo>https://youtu.be/JlbszPXZXoI?si=KXyamMzYCsH5xKOy</matchVideo>
+    <description>Cross-country skiing is a winter sport where participants use skis to glide over long distances across snow-covered terrain. It is one of the oldest forms of skiing, initially developed for transportation and hunting in snowy regions. The sport requires a high level of endurance, strength, and technique, making it a demanding but rewarding activity. Popular in Nordic countries like Norway, Sweden, and Finland, cross-country skiing is a staple of winter sports culture. It features prominently in the Winter Olympics and other international competitions. Recreationally, it is enjoyed by millions who appreciate the combination of physical exercise and the serene beauty of snowy landscapes.</description>
   </sport>
   <sport>
     <name>Cycling</name>
@@ -197,6 +207,7 @@
     <genderParticipation>High participation from both men and women, with professional and amateur events for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/PmMHEEOrzWU?si=5_Z0nYiKjwj6ebDh</rulesVideo>
     <matchVideo>https://youtu.be/Ua80hzoNkcM?si=_qpxUM_AXR10-SC6</matchVideo>
+    <description>Cycling is a versatile sport that encompasses a variety of disciplines, including road racing, track cycling, mountain biking, and BMX. It involves riding bicycles competitively or recreationally. Road racing, the most popular form, features long-distance races on paved roads, with events like the Tour de France, Giro d'Italia, and Vuelta a España being iconic in the sport. Track cycling takes place on velodromes, with races varying from sprints to endurance events. Mountain biking and BMX offer off-road and stunt challenges. Cycling is deeply ingrained in European culture, especially in countries like France, Italy, and Belgium, where it enjoys immense popularity and media coverage.</description>
   </sport>
   <sport>
     <name>Field Hockey</name>
@@ -215,6 +226,7 @@
     <genderParticipation>Strong participation from both men and women, with major tournaments for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/3oIWk5qhlC0?si=gpQdgGOkCm53CGD4</rulesVideo>
     <matchVideo>https://youtu.be/gD07sOeBD1g?si=sSjf14LwP0gY4FQa</matchVideo>
+    <description>Field hockey is a fast-paced team sport played on grass or artificial turf, involving two teams of eleven players each. The game is played with a small, hard ball and curved sticks, with the aim of scoring goals by hitting the ball into the opponent's net. Field hockey originated in England in the 19th century and spread throughout the Commonwealth, becoming particularly popular in India, Pakistan, Australia, and the Netherlands. It is known for its speed, skill, and strategy, with major international tournaments such as the Hockey World Cup and the Olympic Games drawing significant attention. Both men and women participate at all levels, making it a truly global sport.</description>
   </sport>
   <sport>
     <name>Football (Soccer)</name>
@@ -233,6 +245,7 @@
     <genderParticipation>High participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/qg566N-eDWo?si=pxCgtk5kxaMI7x8w</rulesVideo>
     <matchVideo>https://youtu.be/zUTUA0TKvfQ?si=wKGklH2QNSWPWmwL</matchVideo>
+    <description>Football, also known as soccer, is the world's most popular sport, played by two teams of eleven players on a rectangular field with a goal at each end. The objective is to score by getting the ball into the opposing goal. Originating in England in the 19th century, football spread rapidly through the British Empire and beyond, becoming a global phenomenon. It is celebrated for its simplicity, requiring minimal equipment, and its ability to bring people together. Major competitions like the FIFA World Cup, UEFA Champions League, and domestic leagues attract billions of viewers. Football has a profound cultural impact, influencing music, fashion, and even politics.</description>
   </sport>
   <sport>
     <name>Futsal</name>
@@ -251,6 +264,7 @@
     <genderParticipation>Strong participation from both men and women, with major tournaments for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/yASPQtZMvww?si=tlprIXpxxttBOBwr</rulesVideo>
     <matchVideo>https://youtu.be/ACoY_MFqLMs?si=ql8-S9VluJ7yAFri</matchVideo>
+    <description>Futsal is a variant of football played on a smaller, indoor court with five players per team. The game emphasizes ball control, quick decision-making, and precise passing, making it a fast-paced and skillful sport. Originating in Uruguay and Brazil in the 1930s, futsal has gained immense popularity in countries with strong football traditions, such as Portugal and Spain. It is often used as a training ground for football stars due to its focus on technical skills. Major futsal tournaments include the FIFA Futsal World Cup and UEFA Futsal Championship, which showcase the sport's best talents and attract large audiences.</description>
   </sport>
   <sport>
     <name>Gaelic Football</name>
@@ -269,6 +283,7 @@
     <genderParticipation>Strong participation from both men and women, with separate leagues and competitions.</genderParticipation>
     <rulesVideo>https://youtu.be/vSOe-USZzok?si=apPotdUObGkv0EHV</rulesVideo>
     <matchVideo>https://youtu.be/8mWveulRoog?si=3-AGh2MEK-the80_</matchVideo>
+    <description>Gaelic Football is a traditional Irish team sport that combines elements of soccer and rugby. Played with a round ball on a rectangular grass field, teams of 15 players each aim to score by kicking or punching the ball into the opponent's goal or over a crossbar. The sport is governed by the Gaelic Athletic Association (GAA) and has deep cultural roots in Ireland, where it is a major part of national and local identity. Gaelic football is played at amateur levels with a significant following, particularly during the All-Ireland Senior Football Championship, which draws large crowds and media attention. The sport emphasizes skill, physicality, and community involvement.</description>
   </sport>
   <sport>
     <name>Golf</name>
@@ -287,6 +302,7 @@
     <genderParticipation>High participation from both men and women, with professional tours for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/IcaFTHeVQ7w?si=B5UbxLD-1rmTrEgj</rulesVideo>
     <matchVideo>https://youtu.be/mmtj5DurYBU?si=hMDSOiDi6UXThwN0</matchVideo>
+    <description>Golf is a precision club-and-ball sport where players aim to hit a ball into a series of holes on a course in as few strokes as possible. Originating in Scotland in the 15th century, golf has grown into a global sport with a rich history and a strong cultural and social presence. The game is known for its tranquil settings, challenging courses, and the mental and physical skills required to play at high levels. Major tournaments, such as The Masters, The Open Championship, and the PGA Championship, are key events that attract large audiences and significant media coverage. Golf is played by millions worldwide, with professional tours for both men and women, including the PGA and LPGA.</description>
   </sport>
   <sport>
     <name>Handball</name>
@@ -305,6 +321,7 @@
     <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/69Ap8WsenXc?si=Kpd0yDaRPQWpoFcS</rulesVideo>
     <matchVideo>https://youtu.be/UovdZ7XB-j0?si=XMUeybLyGskkuzzv</matchVideo>
+    <description>Handball is a high-intensity team sport played indoors, where two teams of seven players each aim to score goals by throwing a ball into the opponent's net. The game combines elements of soccer, basketball, and netball, requiring players to possess speed, strength, agility, and teamwork. Handball originated in Europe in the late 19th century, with Denmark being one of the first countries to formalize its rules. It is particularly popular in European countries like Germany, France, and Spain. The sport is played at both amateur and professional levels, with major competitions including the European Handball Championship and the IHF World Championship, showcasing top talents from around the world.</description>
   </sport>
   <sport>
     <name>Ice Hockey</name>
@@ -323,6 +340,7 @@
     <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/nv2FUnHceqU?si=JEppnFEFEgjn0OSb</rulesVideo>
     <matchVideo>https://youtu.be/5NV2gF0LTIs?si=tBdz-xPrhbjUAy67</matchVideo>
+    <description>Ice hockey is a fast-paced team sport played on an ice rink, where two teams of six players each aim to score goals by hitting a puck into the opponent's net using sticks. Originating in Canada in the 19th century, ice hockey has become a defining part of the cultural identity in countries with cold climates, such as Canada, Russia, and Sweden. The sport requires speed, skill, and physicality, making it one of the most thrilling and intense games to watch. The National Hockey League (NHL) is the premier professional league, featuring the best talent from around the world. Major events like the Stanley Cup Finals and the Winter Olympics highlight the sport's global appeal.</description>
   </sport>
   <sport>
     <name>Kabaddi</name>
@@ -341,6 +359,7 @@
     <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/d-9eTjuXymY?si=1zM7_6kroV6qNQon</rulesVideo>
     <matchVideo>https://youtu.be/kW6z5TyU8QA?si=MjLgEaN8LVSBVFWW</matchVideo>
+    <description>Kabaddi is a traditional team sport originating from ancient India, played extensively in South Asia. The game involves two teams taking turns sending a "raider" into the opponent's half to tag as many defenders as possible before returning to their own half without being tackled. It combines elements of wrestling and tag, requiring strength, agility, and strategic thinking. Kabaddi is highly popular in rural areas and has gained urban appeal through professional leagues such as the Pro Kabaddi League in India. The sport is deeply embedded in the cultural fabric of countries like India and Bangladesh, often played during festivals and community gatherings.</description>
   </sport>
   <sport>
     <name>Kendo</name>
@@ -359,6 +378,7 @@
     <genderParticipation>Strong participation from both men and women, with separate divisions in competitions.</genderParticipation>
     <rulesVideo>https://youtu.be/Cb13DKpDd_k?si=G4lBvN3tkSxlDqXF</rulesVideo>
     <matchVideo>https://youtu.be/3mUlr8grsic?si=kyA8zKpQowNp988t</matchVideo>
+    <description>Kendo, meaning "Way of the Sword," is a traditional Japanese martial art that evolved from samurai swordsmanship (kenjutsu). Practitioners, known as kendoka, use bamboo swords (shinai) and protective armor (bogu) to engage in combat, aiming to strike specified target areas on the opponent's body. Kendo emphasizes discipline, respect, and the development of character through rigorous training. It is widely practiced in Japan, particularly in schools and universities, and has a strong presence worldwide. Kendo competitions are held at various levels, including local, national, and international tournaments, reflecting its deep cultural significance and global appeal.</description>
   </sport>
   <sport>
     <name>Lacrosse</name>
@@ -377,6 +397,7 @@
     <genderParticipation>Strong participation from both men and women, with separate rules and leagues for each gender.</genderParticipation>
     <rulesVideo>https://youtu.be/W03VtWxOM_M?si=qxxmfE13QoriuMgl</rulesVideo>
     <matchVideo>https://youtu.be/v0yYBvX8Tcw?si=ioxQciasTbWmAD8j</matchVideo>
+    <description>Lacrosse is a fast-paced team sport played with a small rubber ball and a long-handled stick called a lacrosse stick. The objective is to score goals by shooting the ball into the opponent's net. Lacrosse has its origins in Native American tribes, where it was played for religious and training purposes, and was later codified by European settlers in the 17th century. It is particularly popular in North America, with a strong presence in high schools, colleges, and professional leagues. The sport is known for its high energy, physicality, and strategic depth, making it a favorite among players and spectators alike.</description>
   </sport>
   <sport>
     <name>Motorsport</name>
@@ -395,6 +416,7 @@
     <genderParticipation>Historically male-dominated, but increasing efforts to promote female participation.</genderParticipation>
     <rulesVideo>https://youtu.be/W1cfLjS5a0Y?si=3dQQZLYypB1DBhOq</rulesVideo>
     <matchVideo>https://youtu.be/xQbH2TRcHsA?si=fnSRwef_nsB_6qkt</matchVideo>
+    <description>Motorsport encompasses a variety of competitive events involving motor vehicles, including car racing, motorcycle racing, and rally racing. The sport has a rich history dating back to the late 19th century, shortly after the invention of the automobile. Motorsport is highly popular worldwide, with major events such as Formula 1, NASCAR, MotoGP, and the World Rally Championship attracting millions of fans. These events showcase cutting-edge technology, high-speed thrills, and the skills of the world's best drivers and riders. Motorsport has a significant cultural and economic impact, with extensive media coverage, sponsorships, and a dedicated global fan base.</description>
   </sport>
   <sport>
     <name>Netball</name>
@@ -413,6 +435,7 @@
     <genderParticipation>Primarily played by women, though men's and mixed leagues exist.</genderParticipation>
     <rulesVideo>https://youtu.be/V1qINnI-Dis?si=n656k0RX_BaI13uP</rulesVideo>
     <matchVideo>https://youtu.be/cc8PXXmwRjg?si=lrd9GaJaCHsI6K7e</matchVideo>
+    <description>Netball is a fast-paced, non-contact team sport played by two teams of seven players each on a rectangular court with raised goal rings at each end. The objective is to score goals by passing the ball and shooting it through the opponent's hoop. Developed in the 1890s from early versions of basketball, netball's rules were codified in England and quickly spread to Commonwealth countries. It is particularly popular among women, with strong participation in countries like New Zealand, Australia, Jamaica, and South Africa. Major international competitions, such as the Netball World Cup and the Commonwealth Games, highlight the sport's popularity and competitive spirit.</description>
   </sport>
   <sport>
     <name>Oil Wrestling</name>
@@ -431,6 +454,7 @@
     <genderParticipation>Primarily male-dominated, with limited female participation.</genderParticipation>
     <rulesVideo>https://youtu.be/H9oe5JhKf2Q?si=KHEM8AJPqLuQlQ5T</rulesVideo>
     <matchVideo>https://youtu.be/D2keIfaPHgw?si=nx5ADAaw6ayeNc9J</matchVideo>
+    <description>Oil Wrestling, known as "Yağlı Güreş" in Turkish, is a traditional wrestling sport where competitors are covered in olive oil. The objective is to control the opponent by making them fall or lifting them off the ground. This ancient sport has roots in Greco-Roman wrestling and is deeply embedded in Turkish culture and history. The annual Kirkpinar oil wrestling festival, held in Edirne, Turkey, is the oldest continuously running, sanctioned sporting competition in the world, dating back to 1362. The event is a major cultural celebration, attracting wrestlers and spectators from all over the country, reflecting its significant cultural and historical importance.</description>
   </sport>
   <sport>
     <name>Paleta Frontón</name>
@@ -449,6 +473,7 @@
     <genderParticipation>Strong participation from both men and women.</genderParticipation>
     <rulesVideo>https://youtu.be/DiQnm5orBas?si=8MJ0Q2PyzaGwoG-V</rulesVideo>
     <matchVideo>https://youtu.be/yW4ZwDTBNQM?si=9h77BcbmR_CsEoHV</matchVideo>
+    <description>Paleta Frontón is a fast-paced racquet sport originating from Peru, developed in the 20th century as a variation of Basque pelota. It is played with a wooden paddle and a small rubber ball on a court with a front wall. The objective is to hit the ball against the wall in a way that makes it difficult for the opponent to return. Paleta Frontón is a major part of Peruvian sports culture, enjoyed by players of all ages and skill levels. The sport emphasizes agility, precision, and strategy, making it both exciting to play and watch. It is commonly played in parks and sports clubs across Peru, reflecting its cultural significance.</description>
   </sport>
   <sport>
     <name>Pato</name>
@@ -467,6 +492,7 @@
     <genderParticipation>Strong participation from both men and women.</genderParticipation>
     <rulesVideo>https://youtu.be/HxkcfxsFqSU?si=YG_Ss9oFZmdmP1G3</rulesVideo>
     <matchVideo>https://youtu.be/mCOo8bG4Rzo?si=RKqP9vPcnrWS4qVf</matchVideo>
+    <description>Pato is a traditional Argentine sport that combines elements of polo and basketball. Played on horseback, the game involves two teams of four riders each, aiming to score by throwing a ball with handles through a vertical ring. The sport dates back to the 17th century and has evolved significantly over time. Pato is deeply embedded in Argentine culture and is considered the national sport. It reflects the country's rich equestrian heritage and is celebrated for its excitement and physicality. Major pato tournaments draw large crowds and are a significant part of Argentina's sporting calendar, showcasing the skills and teamwork of the riders and their horses.</description>
   </sport>
   <sport>
     <name>Rugby</name>
@@ -485,6 +511,7 @@
     <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/smnuRhNtT2E?si=HxgxkniWRLQ5VkYg</rulesVideo>
     <matchVideo>https://youtu.be/DfZIv2FKWj4?si=ZthxeHK6ZpviAAaq</matchVideo>
+    <description>Rugby is a physical and fast-paced team sport that originated in England in the 19th century. Played with an oval ball, the objective is to score points by carrying, passing, or kicking the ball to the opponent's end zone. Rugby is divided into two main types: Rugby Union, with 15 players per team, and Rugby League, with 13 players per team. The sport is known for its intense physicality, strategic depth, and high-paced action. It has a significant cultural impact in many Commonwealth countries, particularly New Zealand, South Africa, England, and Australia. Major competitions like the Rugby World Cup and the Six Nations Championship attract huge global audiences and generate substantial economic impact.</description>
   </sport>
   <sport>
     <name>Sumo Wrestling</name>
@@ -503,6 +530,7 @@
     <genderParticipation>Primarily male-dominated, with limited female participation.</genderParticipation>
     <rulesVideo>https://youtu.be/EMANOt2Jw88?si=YxGrBETgQm0rgF7Q</rulesVideo>
     <matchVideo>https://youtu.be/E0Xl1f-fXLo?si=9aOmM0boeyb0c2Vy</matchVideo>
+    <description>Sumo Wrestling is a traditional Japanese sport where two wrestlers, known as rikishi, compete in a circular ring called a dohyo. The objective is to force the opponent out of the ring or to make them touch the ground with any body part other than the soles of their feet. Sumo has ancient origins and is deeply rooted in Japanese culture and Shinto rituals. It is known for its strict traditions, ceremonial elements, and the significant physical size and strength of the wrestlers. Major sumo tournaments, known as honbasho, are held six times a year and are major national events in Japan, attracting large audiences and media coverage.</description>
   </sport>
   <sport>
     <name>Table Tennis</name>
@@ -521,6 +549,7 @@
     <genderParticipation>High participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/zSKpxB3rOB8?si=1S1E7w7mh_LgrBAm</rulesVideo>
     <matchVideo>https://youtu.be/nd40lIYtQmA?si=tIpC3kkUwWOalQlH</matchVideo>
+    <description>Table Tennis, also known as ping pong, is a fast-paced indoor sport played by two or four players using small paddles and a lightweight ball. The game involves hitting the ball back and forth across a table with a net, aiming to score points by making the ball land on the opponent's side. Originating in England in the late 19th century as an indoor version of lawn tennis, table tennis quickly gained popularity worldwide, particularly in Asia. China, Japan, and South Korea are dominant in the sport, with China being the most successful nation. Table tennis is known for its speed, precision, and intense rallies, and is a staple in the Olympic Games and other international competitions.</description>
   </sport>
   <sport>
     <name>Taekwondo</name>
@@ -539,6 +568,7 @@
     <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/7-iIq3ikA3M?si=daw7NSQoPAxT6xM5</rulesVideo>
     <matchVideo>https://youtu.be/sdkCKqAIE74?si=IwUJXR6_5FrC7IYz</matchVideo>
+    <description>Taekwondo is a modern martial art originating from South Korea, known for its emphasis on high, fast kicks and dynamic footwork. Developed in the 1940s and 1950s, Taekwondo combines elements of traditional Korean martial arts with influences from karate. Practitioners, known as Taekwondoin, wear a uniform called a dobok and aim to score points by landing kicks and punches on specific scoring areas of the opponent's body. Taekwondo is highly significant in South Korea, where it is a major part of the national identity and cultural heritage. The sport is practiced worldwide, with millions of participants and major international competitions, including the Olympic Games.</description>
   </sport>
   <sport>
     <name>Tennis</name>
@@ -557,6 +587,7 @@
     <genderParticipation>High participation from both men and women, with professional tours and Grand Slam tournaments for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/1P_Das6OjAk?si=Jjw9tqiEeL6yNIEV</rulesVideo>
     <matchVideo>https://youtu.be/CGRzfUccmNE?si=WXE-Y7dogC__Rls9</matchVideo>
+    <description>Tennis is a racket sport played individually against a single opponent (singles) or between two teams of two players each (doubles). The objective is to hit a ball over a net and into the opponent's court in a way that prevents a valid return. Tennis is known for its fast-paced rallies, strategic play, and physical demands. The modern game originated in England in the 19th century, with the first Wimbledon tournament held in 1877. Tennis is highly popular worldwide, with major tournaments such as the Grand Slam events (Wimbledon, US Open, French Open, and Australian Open) attracting large audiences and significant media coverage. The sport boasts legendary athletes like Roger Federer and Serena Williams.</description>
   </sport>
   <sport>
     <name>Volleyball</name>
@@ -575,7 +606,9 @@
     <genderParticipation>High participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/9g7nYQv-kPM?si=FdEePbJ7_PiN3R8q</rulesVideo>
     <matchVideo>https://youtu.be/mSlJCiiYkBA?si=OkDPYIPZNp0V5SNi</matchVideo>
+    <description>Volleyball is a team sport played by two teams of six players on a rectangular court divided by a net. The objective is to score points by hitting a ball over the net and into the opponent's court in a way that prevents a return. Invented in 1895 by William G. Morgan in the United States, volleyball was designed as a less strenuous alternative to basketball. The sport has since grown in popularity worldwide, with strong followings in countries like Brazil, Russia, the United States, and Japan. Volleyball is played both indoors and on sand (beach volleyball), with major international competitions including the Olympic Games, World Championships, and various professional leagues.</description>
   </sport>
+
   <sport>
     <name>Wrestling</name>
     <officialCountries>None</officialCountries>
@@ -593,5 +626,8 @@
     <genderParticipation>Strong participation from both men and women, with professional leagues and international competitions for both genders.</genderParticipation>
     <rulesVideo>https://youtu.be/gp-hWr-opUc?si=jvAdiUDoopBrgxt3</rulesVideo>
     <matchVideo>https://youtu.be/v1hKWYRuGVg?si=DmFzL-s68pARgEMF</matchVideo>
+    <description>Wrestling is one of the oldest forms of combat sports, with historical evidence from ancient civilizations such as Greece, Rome, and Egypt. The sport involves two competitors who attempt to pin their opponent to the mat or score points through a variety of holds, takedowns, and techniques. Wrestling has significant cultural importance in many countries and has been a staple in the Olympic Games since their inception. There are different styles of wrestling, including freestyle, Greco-Roman, and folkstyle, each with its own set of rules and techniques. Countries like the United States, Russia, Iran, and Japan have strong wrestling traditions and have produced some of the sport's most legendary athletes. Wrestling is practiced by both men and women, with professional leagues and international competitions drawing large audiences and generating moderate economic impact through media rights and sponsorships.</description>
   </sport>
-</sports>
+
+ 
+ </sports>

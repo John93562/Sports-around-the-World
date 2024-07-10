@@ -1,0 +1,61 @@
+/* Loading Font */
+@font-face {
+  font-family: "Trueno";
+  src: url("../Font/Trueno/Trueno-wml2.otf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Trueno";
+  src: url("../Font/Trueno/TruenoSemibold-Z9yl.otf");
+  font-weight: bold;
+}
+/* Bold With Outline */
+@font-face {
+  font-family: "Trueno";
+  src: url("../Font/Trueno/TruenoBoldOutline-oYMq.otf");
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: "Trueno";
+  src: url("../Font/Trueno/TruenoLight-E2pg.otf");
+  font-weight: lighter;
+}
+:root {
+  /* Text-size styles */
+  --h1: 90px;
+  --h2: 64px;
+  --h3: 45px;
+  --h4: 32px;
+  --h5: 23px;
+  --h6: 16px;
+  --h7: 11px;
+}
+
+* {
+  font-size: var(--h5);
+  font-family: "Trueno";
+  font-weight: normal;
+}
+
+h1 {
+  font-size: var(--h1);
+}
+h2 {
+  font-size: var(--h2);
+}
+h3 {
+  font-size: var(--h3);
+}
+h4 {
+  font-size: var(--h4);
+}
+h5 {
+  font-size: var(--h5);
+}
+h6 {
+  font-size: var(--h6);
+}
+p.h7 {
+  font-size: var(--h7);
+}
