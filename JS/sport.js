@@ -158,9 +158,9 @@ if (!query.sport) {
 
     $("#sport_wikipedia").attr("href", sport.wikipediaLink);
 
-    // let image = await this.getRandomImageBasedOnInput(query.sport);
+    let image = await this.getRandomImageBasedOnInput(query.sport);
 
-    // $("#background-image").css("backgroundImage", 'url("' + image + '")');
+    $("#background-image").css("backgroundImage", 'url("' + image + '")');
 
     $("#loading").css("display", "none");
     $("main").css("opacity", 1);

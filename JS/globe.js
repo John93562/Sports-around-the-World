@@ -46,14 +46,7 @@ function enter(country) {
   }
 }
 
-function leave(country) {
-  //   $("#has-not-hovered-globe").css("display", "block");
-  //   $("#has-hovered-globe").css("display", "none");
-}
-
-//
-// Variables
-//
+function leave(country) {}
 
 var countryName = $("#country-hovered-name");
 var countryImage = $("#country-hovered-img");
