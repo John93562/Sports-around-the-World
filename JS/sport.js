@@ -164,7 +164,7 @@ if (!query.sport) {
 
     $("#loading").css("display", "none");
     $("main").css("opacity", 1);
-  }, 1000);
+  }, 1500);
 }
 
 // Replace 'YOUR_ACCESS_KEY' with your actual Unsplash API access key

@@ -26,7 +26,7 @@ setTimeout(() => {
   });
   $("#loading").css("display", "none");
   $("main").css("opacity", 1);
-}, 1000);
+}, 1500);
 
 function ChangeSelectedCountry(country_from_db) {
   if (country_from_db) {

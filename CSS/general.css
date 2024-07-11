@@ -206,7 +206,7 @@ footer > div {
       #0000 0
     )
     bottom/0% 0% no-repeat #ddd;
-  animation: l10 1s infinite steps(6);
+  animation: l10 1.75s infinite steps(6);
 }
 @keyframes l10 {
   100% {

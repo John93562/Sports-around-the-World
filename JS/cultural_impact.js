@@ -109,4 +109,4 @@ setTimeout(async () => {
 
     document.querySelector("#daily-life-container").appendChild(newDiv);
   }
-}, 1000);
+}, 1500);

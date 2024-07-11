@@ -271,7 +271,7 @@ setTimeout(() => {
 
   $("#loading").css("display", "none");
   $("main").css("opacity", 1);
-}, 1000);
+}, 1500);
 
 function createTwoh6ElementsWithDIV(text_content_1, text_content_2) {
   const divForH6 = document.createElement("div");
