@@ -1,0 +1,344 @@
+Sports around the world
+
+Menu will contain 4 pages: 1 index, cultural impact of sports, Sports turism
+
+footer will be about me, thanking the user for reading the website
+
+1. Mapping Countries with Sports and Categories:
+This page can feature an interactive world map where users can click on different countries to see the popular sports / traditional in each region. Each country can have a list or categories of sports, with some brief information about the popularity and significance of these sports in that country.
+
+Landing Page:
+World in a 3D where you can scroll and also the country is being shown on right with its traditional / popular sports
+
+2nd Frame:
+The purpose of this site
+
+3rd Frame:
+All sports categotized by country. each sport that you click it will go into that specific sport’s details
+
+
+
+
+2. Sport In-Depth:
+This page can provide detailed information about specific sports. It can include the history, rules, major tournaments, famous athletes, and how the sport is played in different countries. 
+
+1 frame all page
+
+with 1st Icon on the left and description on the right
+
+then popularity 
+
+Video below of that sport being played
+
+Rules
+
+Then significance of that sport for that country
+
+History
+
+Major tournaments? 
+
+Famous Athletes?
+
+
+3. Cultural Impact of Sports:
+This page can explore how sports influence and are influenced by the culture, traditions, and societal norms of different countries. 
+
+It can include articles, stories, and multimedia content showcasing how sports are intertwined with local cultures, festivals, and daily life.
+
+
+Background Image/Video: A dynamic collage or video montage of various sports events around the world.
+* Tagline: "Discover how sports shape and are shaped by cultures globally."
+
+A brief introduction to the topic, explaining what the page is about and why it's important.
+
+On the topic of Sports around the World, each country where famous athletes explain what is the sports meaning to them
+
+
+Atheletes and words
+* Collect and showcase personal stories from athletes, fans, and locals about how sports have impacted their lives and communities. Use quotes, anecdotes, and narratives to bring these stories to life.
+
+
+
+
+* Allow users to submit their own stories through a form.
+
+
+
+Daily Life and Traditions
+How sports are integrated into the daily lives and traditions of different cultures.
+These videos provide a rich visual insight into how sports are an integral part of daily life and cultural traditions in different parts of the world.
+
+Kabaddi in India
+* Description: Kabaddi is a popular sport in rural India, often played in village squares and school grounds. It is deeply rooted in Indian culture and tradition.
+* Video:  https://youtu.be/yL42Nwpu4Q4?si=oLfg7UZfKMorIKYd 
+* Video:  https://youtu.be/udpE2c0Zheo?si=NUb9h1E4ohTz_Y_m
+
+Muay Thai in Thailand
+* Description: Muay Thai, or Thai boxing, is practiced widely in Thailand. It's common to see people training in parks, gyms, and even on the streets, showcasing the sport's importance in Thai culture.
+* Video: https://youtu.be/xZtadif15WU?si=i0sxnLRKLKvy7cMV
+* Video: https://youtu.be/19KUO_Zhr5o?si=8g8e6f80p6m7orgv
+
+Buzkashi in Afghanistan
+* Description: Buzkashi is Afghanistan's national sport, traditionally played on horseback. It is a significant cultural event, especially in rural areas, where games can draw large crowds.
+* Video: https://youtu.be/0-AnRZvZdOc?si=F4PHgI-9GdothRme
+* Video: https://youtu.be/1JUn8MsEyPs?si=W7PCPrCmx8diQ-cy
+* 
+Rugby in Fiji
+* Description: Rugby is more than a sport in Fiji; it's a way of life. Children and adults alike play rugby on beaches, fields, and even in the streets, reflecting its deep cultural integration.
+* Video: https://youtu.be/xekf8G0eHwY?si=oM5xDVRWFChDrkgF
+* Video: https://youtu.be/Y04I5iHZBfY?si=CPmuGtrFb77FcyP0
+Baseball in Japan
+* Description: Baseball is hugely popular in Japan, with people of all ages playing in parks, schoolyards, and local leagues. The sport has a significant presence in Japanese daily life and culture.
+* Video: https://youtu.be/BA4f9uKqsFI?si=LEEkm5ZfUyyIemgq
+* Video: https://youtu.be/xbSWjb3tlJg?si=GzrPVWAVKU4MGSPs
+* 
+Cross-country Skiing in Norway
+* Description: In Norway, cross-country skiing is a common winter activity. Many Norwegians, including children, ski to school, work, or just for recreation, demonstrating the sport's cultural significance.
+* Video: https://youtu.be/Fee0F516szA?si=rWhwvWspptcRf9Gr
+* https://youtu.be/ROnH1lHJQHE?si=I6STDm8b4t-KNlL8
+
+Running in Ethiopia
+* Description: Running is a way of life in Ethiopia, especially in the highland regions. It's common to see people running as part of their daily routine, contributing to the country's success in long-distance running.
+* Video: https://youtu.be/ptpc_gsMPYk?si=ycaBVzlwPC9RMDzp
+* Video: https://youtu.be/F1MnKDYRt9U?si=B8GUFoOZSAbhx9Vu
+
+
+Pétanque in France
+* Description: Pétanque is a popular pastime in France, especially in Provence. It is commonly played in town squares and parks, bringing together people of all ages.
+* Video: https://youtu.be/kPn4mekXYn4?si=_jg_O8xsUEL9k0g0
+* Video: https://youtu.be/PRl3Z-VhgGE?si=ZPzOVjPon-Kbg9m0
+* 
+Ice Fishing in Finland
+* Description: Ice fishing is a traditional winter activity in Finland, where people drill holes in frozen lakes and spend hours fishing. It is a popular family activity and a way to enjoy the outdoors during the long winter months.
+* Video: https://youtu.be/bijN2GQSZSw?si=KrwR9x-ubxKxpf9Q
+* Video: https://youtu.be/VIs00QjiJZQ?si=ZV3zkAKv5ZsKJGst
+
+Sepak Takraw in Southeast Asia
+* Description: Sepak Takraw, a sport played with a rattan ball and using only feet, head, knees, and chest, is widely popular in Thailand, Malaysia, and Indonesia. It is often played in schools and public spaces.
+* Video: https://youtu.be/B2HPupzuZVo?si=25_pLxIKBvn4_ORD
+* Video: https://youtu.be/u7gKRzKfBHo?si=4H-_YCuZbKnj0YJq
+
+Gaelic Hurling in Ireland
+* Description: Hurling is an ancient Gaelic sport that remains a vibrant part of Irish culture. It is played in schoolyards and local clubs, and is a source of national pride.
+* Video: https://youtu.be/jQ-TOK2FiI4?si=_4-w5y37cG_bniZS
+* Video: https://youtu.be/uECDfjpJlQc?si=-l2KInj5u5GUMMT-
+* 
+Footvolley in Brazil
+* Description: Footvolley, a blend of soccer and volleyball, is a common sight on the beaches of Brazil. It combines the athletic skills of soccer with the net play of volleyball.
+* Video: https://youtu.be/gSZi-RLhDpc?si=RsT5Gth2VCem-sRe
+* Video: https://youtu.be/JGK6elf3LgY?si=D5h_5yWGGiFVysDS
+
+Ski Jumping in Norway
+* Description: Ski jumping is a popular winter sport in Norway, with many towns having their own ski jumps. It is a key part of Norwegian winter traditions and sports culture.
+* Video: https://youtu.be/FaYHVnXs0lM?si=I8-IJxn4-2Z8Svaa
+* Video: https://youtu.be/250ekqaFGJo?si=EDKJH53KDrQxHvkf
+
+Wrestling in Mongolia
+* Description: Traditional Mongolian wrestling, known as Bökh, is a significant cultural sport in Mongolia. It is often performed at festivals and celebrations.
+* Video: https://youtu.be/ZZRj4Fg-SgM?si=rflFbETsrUUrvN2D
+* Video: https://youtu.be/Qfp1pmvFidw?si=Cw-ApUfmJQvfRFER
+
+Kite Flying in Pakistan
+* Description: Kite flying is a popular sport in Pakistan, particularly during the Basant festival in Lahore. It is a colorful and competitive event that attracts participants from all over the country.
+* Video: https://youtu.be/oCXUVPyErGU?si=pIVSG1mGFnPz1toW
+* Video: https://youtu.be/sFOCnwos9_Y?si=I0SR-vGlZA4cuHAd
+* 
+Sled Dog Racing in Alaska
+* Description: Sled dog racing is an integral part of Alaskan culture, with events like the Iditarod showcasing the skill and endurance of both dogs and mushers.
+* Video: https://youtu.be/8UQDr2PDhy8?si=pwBTLvBhEYNzosXx
+* Video: https://youtu.be/QrIaGULw7RU?si=jxs5CXzV6KDgm7yS
+
+Water Buffalo Racing in Thailand
+* Description: Water buffalo racing is a unique and traditional sport in Thailand, particularly in Chonburi province. It is a festive event that attracts large crowds.
+* Video: https://youtu.be/65NQKAT4LqM?si=NIJ9RWYf_AdKIhQH
+* Video: https://youtu.be/2XjKPRahbI0?si=djyZW14poZIektxq
+
+
+
+
+
+4. Sports Turism:
+This page can focus on sports tourism, highlighting famous stadiums, sports museums, and destinations known for their sports culture. 
+
+Most famous stadiums for sports:
+
+1. Wembley Stadium (London, England)
+* Capacity: 90,000
+* Sport: Football (Soccer)
+* Significance: Home to the England national football team and hosts major events like the FA Cup Final, UEFA Champions League Final, and concerts.
+* Famous Event: 1966 FIFA World Cup Final.
+2. Camp Nou (Barcelona, Spain)
+* Capacity: 99,354
+* Sport: Football (Soccer)
+* Significance: Home of FC Barcelona, one of the most successful football clubs in the world.
+* Famous Event: Numerous El Clásico matches between FC Barcelona and Real Madrid.
+3. Old Trafford (Manchester, England)
+* Capacity: 74,140
+* Sport: Football (Soccer)
+* Significance: Known as "The Theatre of Dreams," it is the home of Manchester United.
+* Famous Event: Hosting Premier League matches and European competitions.
+4. Maracanã Stadium (Rio de Janeiro, Brazil)
+* Capacity: 78,838
+* Sport: Football (Soccer)
+* Significance: One of the largest and most iconic football stadiums in the world.
+* Famous Event: 1950 and 2014 FIFA World Cup Finals.
+5. Yankee Stadium (New York City, USA)
+* Capacity: 54,251
+* Sport: Baseball
+* Significance: Home of the New York Yankees, one of the most successful teams in Major League Baseball.
+* Famous Event: Numerous World Series games.
+6. Madison Square Garden (New York City, USA)
+* Capacity: 20,789
+* Sport: Basketball, Ice Hockey, Boxing
+* Significance: Known as "The World's Most Famous Arena," it hosts New York Knicks (NBA) and New York Rangers (NHL) games.
+* Famous Event: Legendary boxing matches, concerts, and various sports events.
+7. Estadio Azteca (Mexico City, Mexico)
+* Capacity: 87,523
+* Sport: Football (Soccer)
+* Significance: Hosted two FIFA World Cup Finals (1970 and 1986).
+* Famous Event: The "Game of the Century" - 1970 World Cup semi-final between Italy and West Germany.
+8. Melbourne Cricket Ground (Melbourne, Australia)
+* Capacity: 100,024
+* Sport: Cricket, Australian Rules Football
+* Significance: One of the oldest and largest stadiums, it hosts the Boxing Day Test match and AFL Grand Final.
+* Famous Event: 1956 Summer Olympics.
+9. Allianz Arena (Munich, Germany)
+* Capacity: 75,000
+* Sport: Football (Soccer)
+* Significance: Known for its unique exterior, it is home to Bayern Munich.
+* Famous Event: 2012 UEFA Champions League Final.
+10. The Colosseum (Rome, Italy)
+* Capacity: Ancient capacity estimated at 50,000-80,000
+* Sport: Gladiatorial contests and public spectacles
+* Significance: An ancient amphitheater and one of the greatest works of Roman architecture and engineering.
+* Famous Event: Numerous gladiatorial battles in ancient Rome.
+11. Rose Bowl (Pasadena, USA)
+* Capacity: 88,565
+* Sport: American Football
+* Significance: Hosts the annual Rose Bowl Game and has hosted several Super Bowl games.
+* Famous Event: 1994 FIFA World Cup Final.
+12. San Siro (Milan, Italy)
+* Capacity: 75,923
+* Sport: Football (Soccer)
+* Significance: Home to both AC Milan and Inter Milan.
+* Famous Event: UEFA Champions League finals and numerous Serie A matches.
+13. Anfield (Liverpool, England)
+* Capacity: 53,394
+* Sport: Football (Soccer)
+* Significance: Home of Liverpool FC, known for its passionate fans and the famous "You'll Never Walk Alone" anthem.
+* Famous Event: Iconic European nights and Premier League matches.
+14. Santiago Bernabéu Stadium (Madrid, Spain)
+* Capacity: 81,044
+* Sport: Football (Soccer)
+* Significance: Home of Real Madrid, one of the most successful football clubs.
+* Famous Event: Numerous UEFA Champions League finals and El Clásico matches.
+15. Twickenham Stadium (London, England)
+* Capacity: 82,000
+* Sport: Rugby
+* Significance: The largest stadium in the world dedicated to the sport of rugby union.
+* Famous Event: Rugby World Cup matches.
+
+
+
+Most famous Sport Museums:
+
+1. National Baseball Hall of Fame and Museum (Cooperstown, USA)
+* Sport: Baseball
+* Significance: This museum honors the greatest players in baseball history and preserves the sport's history through exhibits, artifacts, and memorabilia.
+* Highlights: Inductee plaques, Babe Ruth exhibit, and World Series displays.
+2. International Olympic Museum (Lausanne, Switzerland)
+* Sport: Multi-sport (Olympics)
+* Significance: Located in the Olympic capital, this museum showcases the history of the Olympic Games, featuring exhibits on athletes, the cultural impact of the Games, and the evolution of sports.
+* Highlights: Olympic torches, medals, and interactive exhibits.
+3. FIFA World Football Museum (Zurich, Switzerland)
+* Sport: Football (Soccer)
+* Significance: Dedicated to the history of football, this museum celebrates the sport's rich history, the FIFA World Cup, and the impact of football around the world.
+* Highlights: World Cup trophies, memorabilia from famous players, and interactive exhibits.
+4. Basketball Hall of Fame (Springfield, USA)
+* Sport: Basketball
+* Significance: This museum honors the greatest players, coaches, and contributors to the game of basketball.
+* Highlights: Inductee memorabilia, interactive basketball exhibits, and historical displays.
+5. World Rugby Museum (Twickenham, England)
+* Sport: Rugby
+* Significance: Located at the home of English rugby, this museum explores the history of rugby, showcasing its global impact and the sport's greatest moments.
+* Highlights: Rugby artifacts, historical jerseys, and interactive exhibits.
+6. Museo Nacional del Deporte (Mexico City, Mexico)
+* Sport: Multi-sport
+* Significance: This museum highlights the achievements of Mexican athletes and the country's sports history across various disciplines.
+* Highlights: Olympic memorabilia, famous athletes' gear, and national sports history.
+7. Naismith Memorial Basketball Hall of Fame (Springfield, USA)
+* Sport: Basketball
+* Significance: Dedicated to celebrating basketball's greatest players, coaches, referees, and other major contributors to the sport.
+* Highlights: Exhibits on legendary players like Michael Jordan and Magic Johnson, and interactive displays.
+8. Hockey Hall of Fame (Toronto, Canada)
+* Sport: Ice Hockey
+* Significance: This museum honors the greatest players, coaches, and contributors to the sport of ice hockey.
+* Highlights: Stanley Cup, interactive games, and exhibits on famous hockey moments.
+9. Museo del Fútbol (Montevideo, Uruguay)
+* Sport: Football (Soccer)
+* Significance: Located in the Estadio Centenario, this museum commemorates Uruguay's rich football history, including its World Cup victories.
+* Highlights: Historical artifacts, World Cup memorabilia, and exhibits on Uruguayan football legends.
+10. Australian Sports Museum (Melbourne, Australia)
+* Sport: Multi-sport
+* Significance: Located at the Melbourne Cricket Ground, this museum showcases Australia's rich sports history across various disciplines.
+* Highlights: Cricket memorabilia, interactive exhibits, and displays on Australian sports icons.
+11. Museo e Instituto Nacional de Antropología y Pensamiento Latinoamericano (Buenos Aires, Argentina)
+* Sport: Football (Soccer)
+* Significance: Known for its extensive exhibits on Argentine football history and the legacy of players like Diego Maradona.
+* Highlights: Maradona's memorabilia, World Cup artifacts, and interactive exhibits.
+12. Canadian Football Hall of Fame (Hamilton, Canada)
+* Sport: Canadian Football
+* Significance: Honors the achievements of players, coaches, and contributors to Canadian football.
+* Highlights: Grey Cup memorabilia, inductee displays, and interactive exhibits.
+13. The MCC Museum (London, England)
+* Sport: Cricket
+* Significance: Located at Lord's Cricket Ground, this museum is dedicated to the history of cricket and its greatest moments.
+* Highlights: The Ashes urn, historical cricket gear, and exhibits on famous matches.
+14. The Sports Museum of America (New York City, USA)
+* Sport: Multi-sport
+* Significance: Celebrates various sports and athletes across the United States, with a focus on diversity and inclusion in sports.
+* Highlights: Interactive exhibits, memorabilia from various sports, and stories of trailblazing athletes.
+15. Museo del Real Madrid (Madrid, Spain)
+* Sport: Football (Soccer)
+* Significance: Located at the Santiago Bernabéu Stadium, this museum is dedicated to the history and achievements of Real Madrid CF.
+* Highlights: Trophies, historical kits, and multimedia displays on the club's history.
+
+
+
+
+Interesting topics:
+Different Sport Colors on different cultures
+
+
+Talk about World Championships in all sports
+
+
+Speak about non-frequent sports.
+
+Talk about sports that are really dangerous
+
+Talk about sports that are really difficult
+
+Talk about the disadvantages of sports, 
+
+Talk about drugs in sports
+
+Talk about deaths because of sport
+
+Talk about people that have survived really difficult occasions
+
+Search functionality to everything
+
+create a list of sports as I have to the countries so that we can see each sport instead of each country and then the sport
+
+Being able to map from athletes or museums into the sports
+
+
+interesting sports that are really unique in specific places of the world?
+
+sports adaptation to video games and other media?
+
+remove duplicate data
+
+design seems clumsy
